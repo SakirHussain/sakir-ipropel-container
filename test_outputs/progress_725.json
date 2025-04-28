@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 725,
+    "MAE": 1.4777448275862068,
+    "MSE": 3.261235827586207,
+    "Pearson_Correlation": 0.7016718868757541,
+    "Overall_Error_Percentage": 85.93103448275862,
+    "Error_Distribution": {
+        "0-1 marks": 29.793103448275858,
+        "1-2 marks": 34.758620689655174,
+        "2-3 marks": 24.137931034482758,
+        "3-4 marks": 9.517241379310343,
+        "4+ marks": 1.7931034482758619
+    },
+    "recent_25_results": [
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_20",
+            "student_answer": "3.5 by their function signature",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.25
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_21",
+            "student_answer": "3.5 They have the same name, just different parameters.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.5
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_22",
+            "student_answer": "3.5 They are differntiated by number, types and order of arguments in the function call.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_23",
+            "student_answer": "3.5 it looks at the number, types, and order of arguments in the function call",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_24",
+            "student_answer": "3.5 The compiler differentiates overloaded functions by their signature.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.25
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_25",
+            "student_answer": "3.5 By the number, types, and order of their arguments",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.25
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_26",
+            "student_answer": "3.5 Compiler selects proper function to execute based on number, types and order of arguments in the function call.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_27",
+            "student_answer": "3.5 paremeters",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_28",
+            "student_answer": "3.5 By the number, and the types and order of the parameters.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_29",
+            "student_answer": "3.5 by the number and type of arguments",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_30",
+            "student_answer": "3.5 by their signature (return type, argument list)",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_31",
+            "student_answer": "3.5 overloaded function simply invovles haing a method with the same name within the class. is used to implement a method for subclass which overrides in other words replaces the implementation of the super class. Overloading the concept of providing different meaning to a object based on the context of its presence. Overloading is one type of polymorphism and this is also a feature in programing.",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_1",
+            "student_answer": "3.6 A base case that is the simplest case for a problem so that the function will lead to it, if this does not happen then it will end up as an infinite loop. And a condition to know when to terminate.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_2",
+            "student_answer": "3.6 badly designed algorithyms. using recursion for a non recursive problem.",
+            "human_scores": [
+                2.5,
+                2.0,
+                3.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_3",
+            "student_answer": "3.6 Infinite recursion can occur when the base case is omitted or the recursion step is written incorrectly so that it never converges on the base case.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_4",
+            "student_answer": "3.6 Infinite recursion is an infinite loop if the condition is not met. Either omitting the base case, or writing the recursion step incorrectly so that it does not converge on the base case causes \"indefinite\" recursion, eventually exhausting memory.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_5",
+            "student_answer": "3.6 Either omitting the base case or writing the recursion step incorrectly so that it does not converge on the base case can cause an infinite recursion.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_6",
+            "student_answer": "3.6 Not having a base case that returns a base value.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_7",
+            "student_answer": "3.6 Incorrect or missing base case. Must reduce to the base case. The function must get simpler each time it is run (converge to the base case).",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_8",
+            "student_answer": "3.6 no base case no change in values.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 4.0
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_9",
+            "student_answer": "3.6 If at each recursive call the problem does not diminish or if it does not diminish to a base case, can cause infinite recursion.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_10",
+            "student_answer": "3.6 Omitting the base case or incorrectly calling the recursive step.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_11",
+            "student_answer": "3.6 The recursive problem cannot be reduced to reach the base case.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_12",
+            "student_answer": "3.6 Lack of defining a base case, or writing the recursion step incorrectly so that it does not converge on the base case",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.6 When defining a recursive function, what are possible causes for infinite recursion?",
+            "student_id": "student_13",
+            "student_answer": "3.6 Not having the proper case to leave the recursion",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 3.0
+        }
+    ]
+}

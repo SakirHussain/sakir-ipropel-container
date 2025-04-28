@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 200,
+    "MAE": 1.123125,
+    "MSE": 2.2555843749999998,
+    "Pearson_Correlation": 0.7285503137490846,
+    "Overall_Error_Percentage": 77.0,
+    "Error_Distribution": {
+        "0-1 marks": 46.5,
+        "1-2 marks": 28.999999999999996,
+        "2-3 marks": 17.0,
+        "3-4 marks": 7.5,
+        "4+ marks": 0.0
+    },
+    "recent_25_results": [
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_2",
+            "student_answer": "1.7 do...while statements evaluate whether or not to loop after running the block contained within it at least once. So the main differance is that while statements have a possibility of never being used. Do ... while statements on the other hand are always run at least once before evaluating whether to run again.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_3",
+            "student_answer": "1.7 The main difference between a while and a do...while loop is that the do...while loop always cycles through the loop at least once, but the while loop does not always do so.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_4",
+            "student_answer": "1.7 While loop used to execute a block of code as long as some condition is true. A do...while loop used to execute a block of code as long as some condition is satisfied. The difference between while and do...while is while loop tests its condition before the execution of its contents and the do...while loop tests its condition after the execution of its contents at least once.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_5",
+            "student_answer": "1.7 The termination condition of a do...while statement is usually at the end of the loop so it will run at least once. As for the while statement, if the condition is false to begin with, then the loop will never run.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_6",
+            "student_answer": "1.7 A while loop will check the statement to make sure it is true before executing. A do while loop will execute before checking the statement to see if it should run again.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_7",
+            "student_answer": "1.7 A while statement will test the condition of the while loop FIRST - there is a chance the loop will never run. A do...while loop will ALWAYS run once, and then the while test will determine if it will run again.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_8",
+            "student_answer": "1.7 a do while loop always executes once. A while loop's conditional statement has to be true for it to run.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.5
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_9",
+            "student_answer": "1.7 -WHILE statement --The condition is checked for validity, then is repeated until the conditon is false. -Do...WHILE statement--The code is performed at least once then checked for valid condition. Will continue to",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.5
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_10",
+            "student_answer": "1.7 while statements will evaluate the statement BEFORE executing a cycle of the loop, including the first cycle, meaning that a while loop will not always execute. A do...while will run evaluate the statement AFTER running through a cycle of the loop, ensuring that the loop always executes at least one time.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_11",
+            "student_answer": "1.7 The main difference between a do and a do...while statement is in a do...while statement is the statements in a do block are always executed atleast once. The while statement will only execute if its condition is true.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_12",
+            "student_answer": "1.7 The loop of a do...while statement always executes once.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 4.25
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_13",
+            "student_answer": "1.7 a while statement will only process if the statement is met, while a do...while will always process once, then only continue if the statement is met.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_14",
+            "student_answer": "1.7 Do ...while runs the embedded code at least once, the do command does not necessarily",
+            "human_scores": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_15",
+            "student_answer": "1.7 While tests for true first before running, do...while runs once first before checking.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.75
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_16",
+            "student_answer": "1.7 A do...while statement's body always executes at least once. Where as a while statement will not execute at all unless the condition for the while is true.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_17",
+            "student_answer": "1.7 The statements within the block of the do while loop will always be executed at least once regardless of the conditions. Whereas the while loops may never be executed if the conditions are not met.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_18",
+            "student_answer": "1.7 a do... while loop will always run through once, while an while loop performs a test before running through the loop.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_19",
+            "student_answer": "1.7 A while statement tests the condition before it can start. A do...while statement loops through once before the condition is tested.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.5
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_20",
+            "student_answer": "1.7 A while loop terminates at the beginning of the loop, a do/while terminates at the end of the loop.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 3.5
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_21",
+            "student_answer": "1.7 the loop body always executes at least once",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 4.5
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_22",
+            "student_answer": "1.7 While loop evaluates its expression at the top of its loop and decides if it needs to execute, and the do-while always executes at least once and then evaluates its expression at the bottom of its loop.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_23",
+            "student_answer": "1.7 A do...while statement will always execute the \"do\" piece of code at least once before checking the condition. A while statement will always check the condition first.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_24",
+            "student_answer": "1.7 A do-while passes atleast 1 time before checking the condition, however, a while would fail to enter the loop if the condition fails in its first place.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_25",
+            "student_answer": "1.7 a while loop checks if the condition is true or not first, if it was true, it excutes the statement. a do.. while loop executes the statement before it checks the condition. if the condition was true it would excute the statement again. so a do...while loop would excute the statement atleast once.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_26",
+            "student_answer": "1.7 NO ANSWER",
+            "human_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "human_avg_score": 0.0,
+            "procot_score": 0.0
+        }
+    ]
+}

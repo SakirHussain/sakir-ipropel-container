@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 550,
+    "MAE": 1.4585727272727274,
+    "MSE": 3.2371063181818185,
+    "Pearson_Correlation": 0.6926588039601288,
+    "Overall_Error_Percentage": 84.9090909090909,
+    "Error_Distribution": {
+        "0-1 marks": 31.272727272727273,
+        "1-2 marks": 33.09090909090909,
+        "2-3 marks": 24.0,
+        "3-4 marks": 10.0,
+        "4+ marks": 1.6363636363636365
+    },
+    "recent_25_results": [
+        {
+            "question": "2.6 What is the difference between a function prototype and a function definition?",
+            "student_id": "student_29",
+            "student_answer": "2.6 A function prototype only names the function, its return type, and it's argument list, while a definition defines the above as well as what the function actually does.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "2.6 What is the difference between a function prototype and a function definition?",
+            "student_id": "student_30",
+            "student_answer": "2.6 function prototype describes a classes interface without reviling whatever is inside as for the function definition can't do that.",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.25
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_1",
+            "student_answer": "2.7 the role of a header file list all the functions a class can do while hiding the inner workings of its functions",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 3.25
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_2",
+            "student_answer": "2.7 The main role of header file is it is used to share information among various files.",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_3",
+            "student_answer": "2.7 Header files separate files in which classes are defined and allow the compiler to recognize classes when used elsewhere.",
+            "human_scores": [
+                3.5,
+                4.0,
+                3.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.75
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_4",
+            "student_answer": "2.7 No",
+            "human_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "human_avg_score": 0.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_5",
+            "student_answer": "2.7 A header file consists of \"reusable\" source code such as a class in a file that by convention has a .h filename extension. This differs from .cpp files that contain \"source-code.\"",
+            "human_scores": [
+                3.5,
+                4.0,
+                3.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.75
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_6",
+            "student_answer": "2.7 To provide information about the contents of a library. It includes the definition of classes, declarations of functions, data types, and constants.",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.5
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_7",
+            "student_answer": "2.7 the header file shows the user what types go into and come out of a function but does not allow a user to manipulate the actual code for the function.",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.5
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_8",
+            "student_answer": "2.7 Header files declares the class member functions.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.5
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_9",
+            "student_answer": "2.7 A header file allows for the separation of declaration and implementation into separate files.",
+            "human_scores": [
+                4.0,
+                5.0,
+                3.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 2.25
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_10",
+            "student_answer": "2.7 the header file has access to the C++ Standard Library and makes certain classes like class string work.",
+            "human_scores": [
+                1.5,
+                0.0,
+                3.0
+            ],
+            "human_avg_score": 1.5,
+            "procot_score": 0.5
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_11",
+            "student_answer": "2.7 \"Instruct\" the compiler on how to interface with library and user-written components.",
+            "human_scores": [
+                2.5,
+                2.0,
+                3.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 2.5
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_12",
+            "student_answer": "2.7 create a comon area to contain reusable functions.",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_13",
+            "student_answer": "2.7 to declare the functions being used in the classes",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_14",
+            "student_answer": "2.7 #include \"hat.h\" allows the use of the hat container, so called from the act of pulling names from a hat. The header file for hat includes functions for storage and retrieval of it's contents, mainly put(), peek(), and pull().",
+            "human_scores": [
+                1.5,
+                0.0,
+                3.0
+            ],
+            "human_avg_score": 1.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_15",
+            "student_answer": "2.7 To hold reusable content or modules separate from the actual source-code file that can be easily referenced and employed for different programs.",
+            "human_scores": [
+                4.0,
+                5.0,
+                3.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 3.25
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_16",
+            "student_answer": "2.7 a header file is a file used to store a list of prototye functions and data members.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_17",
+            "student_answer": "2.7 A header file is a cross communication method between source files, to help limit the size of each individual program. Without header files a program will be 1 large lump of code and thus fairly hard to debug and traverse.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 0.5
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_18",
+            "student_answer": "2.7 It contains reusable source code for use by other classes.",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_19",
+            "student_answer": "2.7 to separate the source code from the main function, allows the methods/classes to be included in the program without direct coding. allows re usability.",
+            "human_scores": [
+                3.5,
+                4.0,
+                3.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.75
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_20",
+            "student_answer": "2.7 Header files have reusable source code in a file that a programer can use.",
+            "human_scores": [
+                2.5,
+                3.0,
+                2.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 1.25
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_21",
+            "student_answer": "2.7 To hide the definition and details of a class. Also to help readability of the main C++ file.",
+            "human_scores": [
+                3.5,
+                4.0,
+                3.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.5
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_22",
+            "student_answer": "2.7 To allow the compiler to recognize the classes when used elsewhere.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.75
+        },
+        {
+            "question": "2.7 What is the role of a header-file?",
+            "student_id": "student_23",
+            "student_answer": "2.7 A header file declares a class, its data, and functions available through that class.",
+            "human_scores": [
+                4.0,
+                5.0,
+                3.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 3.75
+        }
+    ]
+}

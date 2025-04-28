@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 225,
+    "MAE": 1.2527777777777778,
+    "MSE": 2.7991305555555552,
+    "Pearson_Correlation": 0.68244616958443,
+    "Overall_Error_Percentage": 77.77777777777779,
+    "Error_Distribution": {
+        "0-1 marks": 43.111111111111114,
+        "1-2 marks": 27.555555555555557,
+        "2-3 marks": 19.11111111111111,
+        "3-4 marks": 8.444444444444445,
+        "4+ marks": 1.7777777777777777
+    },
+    "recent_25_results": [
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_27",
+            "student_answer": "1.7 A do...while loop will always execute atleast once, a while loop may never execute depending on teh conditions.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_28",
+            "student_answer": "1.7 a while loop is pre-check (it checks the condition statement before it executes the code within the while block) a do while loop is post-check (it checks the condition AFTER the block executes, it runs at least once no matter what the condition statement is)",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.7 What is the main difference between a while and a do...while statement?",
+            "student_id": "student_29",
+            "student_answer": "1.7 )) What is the main difference between a while and a do...while statement? The do while construct consists of a block of code and a condition. First, the code within the block is executed, and then the condition is evaluated, this is done until it is proven false. The difference between the While loop is it tests the condition before the code within the block is executed.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_1",
+            "student_answer": "10.1 A hierarchy of nodes that are sorted in a particular order. Each node has a ancestor (except for the root) and children (except for the leaves).",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_2",
+            "student_answer": "10.1 A tree is a finite set of one or more nodes with a specially designated node called the root and the remaining nodes are partitioned into disjoint sets where each of these sets is a tree.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_3",
+            "student_answer": "10.1 A tree is a finite set of one or more nodes such that: there is a specially designated node called the root.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_4",
+            "student_answer": "10.1 A connected, undirected graph without cycles.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_5",
+            "student_answer": "10.1 A data structure that contains a root, internal nodes and external nodes. Each node references another node by means of pointers (pass-by-reference). The root is the \"base\" of the tree, it has no parents. A \"leaf\" is a node at the end of the tree which points to NULL.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_6",
+            "student_answer": "10.1 a tree is a series of nodes where each node has links to other nodes.",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_7",
+            "student_answer": "10.1 an infinite set of nodes that have a root and descendants, and each addition is a leaf.",
+            "human_scores": [
+                3.5,
+                2.0,
+                5.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_8",
+            "student_answer": "10.1 A set of one or more nodes that are hierarchically organized, with one special \"root\" node.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_9",
+            "student_answer": "10.1 A tree is a finite set of one or more nodes such that there is a specially designated node called the root.",
+            "human_scores": [
+                3.5,
+                2.0,
+                5.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_10",
+            "student_answer": "10.1 one or more nodes in a hierarchy starting with the root and branching off like a tree to subtrees",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_11",
+            "student_answer": "10.1 A tree is a data structure where nodes are linked to each other in a hierarchical manner.",
+            "human_scores": [
+                3.5,
+                2.0,
+                5.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_12",
+            "student_answer": "10.1 a grouping of data in a parent to child structure",
+            "human_scores": [
+                3.0,
+                2.0,
+                4.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_13",
+            "student_answer": "10.1 It is a list of numbers in a list made by comparing values of nodes already in the tree and adding to the appropriate spot. Its a list made up of nodes with left and right pointers.",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_14",
+            "student_answer": "10.1 A tree is a branched data structure with nodes, and leaves... a special node called root has no parent node, but however like all other nodes can and does have 2 nodes that it links to, namely one on the right, and one on the left.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_15",
+            "student_answer": "10.1 It organizes data in a nonlinear, hierarchical form, where items can have more than one successor. Partitioned into a root node and subsets are general subtrees of the root.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_16",
+            "student_answer": "10.1 A tree is a finite set of one or more nodes such that there is a specially designated node called the root. The remaining nodes are partitioned into n>=0 disjoint sets T the n plus 1, where each element set is a tree.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_17",
+            "student_answer": "10.1 A finite set of nodes that starts with the root and terminates with leaves.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.75
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_18",
+            "student_answer": "10.1 a set of data arranged with pointers. each element can have many pointers, but no two pointers point to the same element",
+            "human_scores": [
+                2.5,
+                1.0,
+                4.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 0.75
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_19",
+            "student_answer": "10.1 A Tree is a data structure with one or more data nodes, each of which contains some data. Each node itself can have a number of attached child nodes, creating the branched structure Trees are named for.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 0.5
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_20",
+            "student_answer": "10.1 a finite collection of nodes, where it starts with an element called the root, which has children, and its children have children until you get to the leaves which are the last elements and have to children",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.25
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_21",
+            "student_answer": "10.1 A nonlinear, two-dimensional data structure.",
+            "human_scores": [
+                2.0,
+                0.0,
+                4.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_22",
+            "student_answer": "10.1 a finite set of one or more nodes such that there is a root node and all other nodes are split into trees of lesser value than the root",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 3.0
+        }
+    ]
+}

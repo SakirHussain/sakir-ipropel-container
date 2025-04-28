@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 250,
+    "MAE": 1.2065,
+    "MSE": 2.6999674999999996,
+    "Pearson_Correlation": 0.6953545599400551,
+    "Overall_Error_Percentage": 74.4,
+    "Error_Distribution": {
+        "0-1 marks": 45.2,
+        "1-2 marks": 26.0,
+        "2-3 marks": 18.8,
+        "3-4 marks": 8.4,
+        "4+ marks": 1.6
+    },
+    "recent_25_results": [
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_23",
+            "student_answer": "10.1 A finite number of nodes such that there is one root node, each node has a certain number of children nodes, and each child is also a tree",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.75
+        },
+        {
+            "question": "10.1 What is a tree?",
+            "student_id": "student_24",
+            "student_answer": "10.1 A type of data structure in which each element is attached to one or more elements directly beneath it.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_1",
+            "student_answer": "10.3 A leaf is a child of a parent node that has no children nodes of its own.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.5
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_2",
+            "student_answer": "10.3 A leaf is a node with no children.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_3",
+            "student_answer": "10.3 A node with no children.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_4",
+            "student_answer": "10.3 A tree node with no children.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_5",
+            "student_answer": "10.3 And end point of the tree... a node that does not have any children.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_6",
+            "student_answer": "10.3 a node with no children.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_7",
+            "student_answer": "10.3 A new item to the tree--a child",
+            "human_scores": [
+                3.0,
+                2.0,
+                4.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.75
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_8",
+            "student_answer": "10.3 A leaf is a node with children, it is a terminating node.",
+            "human_scores": [
+                2.0,
+                0.0,
+                4.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 1.5
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_9",
+            "student_answer": "10.3 The node with degree 0.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.5
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_10",
+            "student_answer": "10.3 the node with degree 0",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_11",
+            "student_answer": "10.3 a leaf is a node with no children",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_12",
+            "student_answer": "10.3 the last child on any branch",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.5
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_13",
+            "student_answer": "10.3 The last value in the tree. A value with no children attatched.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_14",
+            "student_answer": "10.3 a node with no children.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_15",
+            "student_answer": "10.3 A node with no children.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_16",
+            "student_answer": "10.3 A leaf is a node with no children",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_17",
+            "student_answer": "10.3 a node with degree 0. last node in the tree and furtherest away from the root.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_18",
+            "student_answer": "10.3 an endpoint on a tree that contains no pointers or pointers that are set to null",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 4.5
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_19",
+            "student_answer": "10.3 A leaf is a node with no children.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_20",
+            "student_answer": "10.3 an element in a tree that has no children",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_21",
+            "student_answer": "10.3 A node with no children.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_22",
+            "student_answer": "10.3 a leaf is a node that has no children nodes",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "10.3 What is a leaf?",
+            "student_id": "student_23",
+            "student_answer": "10.3 a leaf is a node with no children",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        }
+    ]
+}

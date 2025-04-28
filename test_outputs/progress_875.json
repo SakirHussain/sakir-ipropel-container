@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 875,
+    "MAE": 1.4981885714285714,
+    "MSE": 3.3711582571428567,
+    "Pearson_Correlation": 0.7022024681982049,
+    "Overall_Error_Percentage": 85.37142857142858,
+    "Error_Distribution": {
+        "0-1 marks": 30.057142857142853,
+        "1-2 marks": 33.02857142857143,
+        "2-3 marks": 24.914285714285715,
+        "3-4 marks": 9.6,
+        "4+ marks": 2.4
+    },
+    "recent_25_results": [
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_17",
+            "student_answer": "4.3 They are called by the function then the function must loop through the array to get the set of characters.",
+            "human_scores": [
+                2.0,
+                1.0,
+                3.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_18",
+            "student_answer": "4.3 by reference by default, unless you specify const, at which the later will make the array unmodifiable.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.25
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_19",
+            "student_answer": "4.3 The function recieves both the array and the array size as parameters. function(arrayName, arraySize)",
+            "human_scores": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_20",
+            "student_answer": "4.3 specifying array name and passing as reference in an argument into the function",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_21",
+            "student_answer": "4.3 1st you must specify the array name without brackets and then the array name and size are passed as two arguments in the function call.",
+            "human_scores": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_22",
+            "student_answer": "4.3 arrays are passed by reference, passing the starting address of array. programmer specifies the array name without brackets and passes the array size as another argument so the function can process the specific number of elements in the array",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.75
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_23",
+            "student_answer": "4.3 by reference only",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.75
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_24",
+            "student_answer": "4.3 by reference",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_25",
+            "student_answer": "4.3 by reference",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_26",
+            "student_answer": "4.3 by refrence",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.4
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_27",
+            "student_answer": "4.3 function( int [], int length)",
+            "human_scores": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_28",
+            "student_answer": "4.3 by reference",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_29",
+            "student_answer": "4.3 by reference",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_30",
+            "student_answer": "4.3 The function reads the variables, stores them. then returns the what ever the variable reads. The function then prints the content of the array.",
+            "human_scores": [
+                2.5,
+                1.0,
+                4.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_1",
+            "student_answer": "4.4 a static array will store the new values that were assigned to each of its elements. meaning if you call a function twice it will use the last values that were returned the first time. if you don't declare it static then the new values will not be stored and will be reset to their original value",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.75
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_2",
+            "student_answer": "4.4 a static array can only be referenced not accessed. Also static arrays can be used without creating an object.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_3",
+            "student_answer": "4.4 An array declared as static is not created and and initialized each time the function and it is also not destroyed when the function terminates.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_4",
+            "student_answer": "4.4 A program intializes static local arrays when their declarations are first encountered. If a static array is not initialized explicityly by the programmer, earch element of that array is intialized to zero by the compiler when the array is created. Non-static array members cannot be initialized at all in C++.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_5",
+            "student_answer": "4.4 Arrays that are static remain the same size throughout the program execution.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_6",
+            "student_answer": "4.4 a static array will only be initilized once, a non static array will be re-initilized once the program reaches the initilization line again.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_7",
+            "student_answer": "4.4 An array declared as static is available from beginning of program to end. One w/o static declaration disappears if it is not accessed within the right scope.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_8",
+            "student_answer": "4.4 a static array has pre-runtime size and that size cannot be changed. A dynamic array gets its size at runtime.",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 1.5
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_9",
+            "student_answer": "4.4 If an array is declared as static, it is not created each time the array is called.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.25
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_10",
+            "student_answer": "4.4 An array that is not declared as static will re-initialize every time the function declaring it is called. A static array will initialize only once, at the declaration, and will store the values in it's elements throughout the duration of the program, even if the same function is called multiple times, a static array will only initialize once.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_11",
+            "student_answer": "4.4 All elements are initialized to zero if not explicitly initialized, this does not happen for automatic local arrays",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.25
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 500,
+    "MAE": 1.48423,
+    "MSE": 3.32108445,
+    "Pearson_Correlation": 0.6989785892761545,
+    "Overall_Error_Percentage": 84.6,
+    "Error_Distribution": {
+        "0-1 marks": 30.0,
+        "1-2 marks": 33.0,
+        "2-3 marks": 25.0,
+        "3-4 marks": 10.4,
+        "4+ marks": 1.6
+    },
+    "recent_25_results": [
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_9",
+            "student_answer": "2.5 by default just one, but they may be overloaded to create as many constructors as necessary",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_10",
+            "student_answer": "2.5 as many as you want",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.25
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_11",
+            "student_answer": "2.5 As many as you want, with different parameters.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_12",
+            "student_answer": "2.5 infinite",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 1.75
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_13",
+            "student_answer": "2.5 as many as you need",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_14",
+            "student_answer": "2.5 As many as are needed, depending on how many variables one wishes to directly modify or leave as default when instantiating an object.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 1.75
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_15",
+            "student_answer": "2.5 A very large amount of constructors can be created for any given class through overloading. When two constructors with a different type or number of parameters are created, they are said to be overloaded, and C++ can recognize which constructor to use based on the type of the variables that are passed/returned.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_16",
+            "student_answer": "2.5 It depends on the number of objects. Each object should have a constructor.",
+            "human_scores": [
+                2.5,
+                1.0,
+                4.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_17",
+            "student_answer": "2.5 Theoretically unlimited, as long as they are defined by the programmer.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_18",
+            "student_answer": "2.5 As many as needed.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 1.5
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_19",
+            "student_answer": "2.5 as many as wanted/needed",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_20",
+            "student_answer": "2.5 several",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_21",
+            "student_answer": "2.5 One",
+            "human_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "human_avg_score": 0.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_22",
+            "student_answer": "2.5 one",
+            "human_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "human_avg_score": 0.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_23",
+            "student_answer": "2.5 There can be infinite constructors as long as the signature is different.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_24",
+            "student_answer": "2.5 that depends on the number of data members in the class",
+            "human_scores": [
+                1.5,
+                0.0,
+                3.0
+            ],
+            "human_avg_score": 1.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_25",
+            "student_answer": "2.5 one",
+            "human_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "human_avg_score": 0.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_26",
+            "student_answer": "2.5 you can overload constructors as you need",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 1.75
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_27",
+            "student_answer": "2.5 As many as the programmer wants to create.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_28",
+            "student_answer": "2.5 one",
+            "human_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "human_avg_score": 0.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_29",
+            "student_answer": "2.5 as many as you want, as long as they each have a unique argument list",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_30",
+            "student_answer": "2.5 as many as the user decides to use.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 1.5
+        },
+        {
+            "question": "2.6 What is the difference between a function prototype and a function definition?",
+            "student_id": "student_1",
+            "student_answer": "2.6 A function definition does not require any additional information that needs to be passed inside its parenthesis to execute. While a definition prototype requires more than one parameters to be passed in order to complete its task.",
+            "human_scores": [
+                4.0,
+                5.0,
+                3.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "2.6 What is the difference between a function prototype and a function definition?",
+            "student_id": "student_2",
+            "student_answer": "2.6 The FUNCTION PROTOTYPE is where the programmer declares that he/she is using a function other than main( ). This is like declaring a variable, the programmer knows that he/she will be using in the future, but has yet to say where they are going to use it, or how. This is answers the question who, it gives the function a name and character. The function prototype, by common practice is placed at the beginning of the program after the #includes and before main( ). The FUNCTION DEFINITION is the guts of the function. This is where the programmer decides what the function is going to do and tells it how to do it. It takes whatever information it is given and performs the operations. It works sort of like the brain, the brain takes in input and based upon that input performs in some way producing an output. The function defintion is placed outside of main( ) and any other functions. A function is its own entity and should be thought of as such.",
+            "human_scores": [
+                2.5,
+                1.0,
+                4.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 4.0
+        },
+        {
+            "question": "2.6 What is the difference between a function prototype and a function definition?",
+            "student_id": "student_3",
+            "student_answer": "2.6 A function prototype tells the compiler the function name, return type and the number and type of parameters without revealing the implementations contained in the function definition.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        }
+    ]
+}

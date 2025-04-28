@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 75,
+    "MAE": 1.1433333333333333,
+    "MSE": 2.0391666666666666,
+    "Pearson_Correlation": 0.682867286269174,
+    "Overall_Error_Percentage": 88.0,
+    "Error_Distribution": {
+        "0-1 marks": 40.0,
+        "1-2 marks": 40.0,
+        "2-3 marks": 13.333333333333334,
+        "3-4 marks": 6.666666666666667,
+        "4+ marks": 0.0
+    },
+    "recent_25_results": [
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_22",
+            "student_answer": "1.2 coding and refining",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_23",
+            "student_answer": "1.2 refining, production, maintenance.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_24",
+            "student_answer": "1.2 Removing logical errors, testing for valid data, random data and actual data.",
+            "human_scores": [
+                1.0,
+                2.0,
+                0.0
+            ],
+            "human_avg_score": 1.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_25",
+            "student_answer": "1.2 1- specification 2- design 3- risk analysis 4- verification 5- coding 6- testing 7- refining 8- production 9- maintenance",
+            "human_scores": [
+                2.5,
+                1.0,
+                4.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 2.5
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_26",
+            "student_answer": "1.2 Refining stage, Production stage, and Maintenance stage.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.75
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_27",
+            "student_answer": "1.2 Testing could affect all parts of the life cycle; it could make you go back to specification if it does not test well.",
+            "human_scores": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_28",
+            "student_answer": "1.2 coding",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 2.25
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_29",
+            "student_answer": "1.2 The Individual components and steps such as analysis, design, and implementing code as well as the entire system are tested for execution of the requirements identified during the analysis stage. i.e. Main output",
+            "human_scores": [
+                1.5,
+                1.0,
+                2.0
+            ],
+            "human_avg_score": 1.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_1",
+            "student_answer": "1.3 Modularability, the ability to reuse parts of the program later in another program sometimes with completely different goals for the program. Also it makes it easier to debug code by dividing up the code into classes that each do a specific job and when the program fails at one job you only have one class to debug. Good for security purposes because it allows you to let someone use a program which sorts lists without having to give them access to the source code. ALso allows you to use inheritance and polymorphism.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.5
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_2",
+            "student_answer": "1.3 This type of programming is more flexible, making it easier to add and modify the program. It is also a type of a fail safe program, you check each individual module. This eliminates redundant code and makes the program easier to read for other programmers. When debugging the program it is easier to track down the source of a problem within a module rather than a 2 million line program.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 1.25
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_3",
+            "student_answer": "1.3 The main advantages to object-oriented programming are that existing classes can be reused and program maintenance and verification are easier.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.5
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_4",
+            "student_answer": "1.3 The advantages is that OOP allows us to build classes of objects. Three principles that make up OOP are: Encapsulation- Objects combine data and operations. Inheritance- Classes can inherit properties from other classes. Polymorphism- Objects can determine appropriate operations at execution time.",
+            "human_scores": [
+                2.5,
+                2.0,
+                3.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 0.5
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_5",
+            "student_answer": "1.3 Some advantages are existing classes can be reused and program maintenance and verification are easier to accomplish.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.75
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_6",
+            "student_answer": "1.3 Object oriented programming allows programmers to use an object with classes that can be changed and manipulated while not affecting the entire object at once. The classes all hold attrubutes that affect the object.",
+            "human_scores": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "human_avg_score": 1.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_7",
+            "student_answer": "1.3 Reusable components, Extensibility, Maintainability, it reduces large problems into smaller more manageable problems.",
+            "human_scores": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.5
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_8",
+            "student_answer": "1.3 Encapsulation-objects combine data and operations Inheritance- classes can inherit properties from other classes Polymorphism- Objects can determine appropriate operations at execution time",
+            "human_scores": [
+                2.5,
+                2.0,
+                3.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_9",
+            "student_answer": "1.3 -Easier to debugg -Reusability",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 3.25
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_10",
+            "student_answer": "1.3 Re-usability and ease of maintenance",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_11",
+            "student_answer": "1.3 One of the main advantages is you can hide inner details a technique known by encapsulation. Objects combine the data and operations but you cannot see how it works. Another advantage is you can reuse classes that have been defined earlier in the program, a method known as inheritance. Finally another advantage is objects can determine appropriate operations at execution time a technique known as polymorphism.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.25
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_12",
+            "student_answer": "1.3 Existing classes can be reused, and program maintenance and verification are easier.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.75
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_13",
+            "student_answer": "1.3 Using different modules allows for easier debugging",
+            "human_scores": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_14",
+            "student_answer": "1.3 Data encapsulation concept,the use of functions or methods to manipulate data.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 0.5
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_15",
+            "student_answer": "1.3 Modular, reusable code, allowing faster deployment of solutions, and a more general view of a solution.",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 3.0
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_16",
+            "student_answer": "1.3 Coding and Debugging programs are usually easier, as either the compiler will specify the object that is working incorrectly, or the function an object was assigned to will be easier to identify. The code itself also looks more organized and is easier to read and will help to avoid redundant coding. Post-programming maintenance is also easier. Also, modules can be reused several times in other programs without too much hassle. Abstraction is the art of breaking down one big problem into smaller, simpler problems and solving them. Many of the smaller problems are shared between unique complex problems, and creating modules to these solve these smaller repeated problems can save time when you encounter them again.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "1.3 What are the main advantages associated with object-oriented programming?",
+            "student_id": "student_17",
+            "student_answer": "1.3 Variables can remain private. The code is easily modified and reusable, as well as easily implemented. Not to mention easier to read and follow along as an observer.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.25
+        }
+    ]
+}

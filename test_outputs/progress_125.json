@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 125,
+    "MAE": 1.0954000000000002,
+    "MSE": 2.0587649999999997,
+    "Pearson_Correlation": 0.751522327213075,
+    "Overall_Error_Percentage": 80.0,
+    "Error_Distribution": {
+        "0-1 marks": 44.0,
+        "1-2 marks": 35.199999999999996,
+        "2-3 marks": 13.600000000000001,
+        "3-4 marks": 7.199999999999999,
+        "4+ marks": 0.0
+    },
+    "recent_25_results": [
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_14",
+            "student_answer": "1.4 In the main() function.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_15",
+            "student_answer": "1.4 C++ programs begin execution at main.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.25
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_16",
+            "student_answer": "1.4 In the Main function..?",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.75
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_17",
+            "student_answer": "1.4 At the \"main()\" function",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_18",
+            "student_answer": "1.4 The main function.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_19",
+            "student_answer": "1.4 The function main",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_20",
+            "student_answer": "1.4 After loading the required include statements and libraries, the main method begins the execution.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_21",
+            "student_answer": "1.4 main function",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_22",
+            "student_answer": "1.4 main",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.5
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_23",
+            "student_answer": "1.4 C++ programs begin execution at the main function.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_24",
+            "student_answer": "1.4 At main",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_25",
+            "student_answer": "1.4 they beging to excute at main",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_26",
+            "student_answer": "1.4 at the main function int main() {}",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_27",
+            "student_answer": "1.4 C++ programs begin execution at the main function.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_28",
+            "student_answer": "1.4 in the \"main\" function",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "1.4 Where do C++ programs begin to execute?",
+            "student_id": "student_29",
+            "student_answer": "1.4 Within the main function",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.75
+        },
+        {
+            "question": "1.5 What is a variable?",
+            "student_id": "student_1",
+            "student_answer": "1.5 Variable can be a integer or a string in a program.",
+            "human_scores": [
+                2.0,
+                1.0,
+                3.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 0.25
+        },
+        {
+            "question": "1.5 What is a variable?",
+            "student_id": "student_2",
+            "student_answer": "1.5 In programming, a structure that holds data and is uniquely named by the programmer. It holds the data assigned to it until a new value is assigned or the program is finished.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.4
+        },
+        {
+            "question": "1.5 What is a variable?",
+            "student_id": "student_3",
+            "student_answer": "1.5 A variable is a location in memory where a value can be stored.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "1.5 What is a variable?",
+            "student_id": "student_4",
+            "student_answer": "1.5 Variable is a location in the computer's memory, in which a value can be stored and later can retrieve that value.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.9
+        },
+        {
+            "question": "1.5 What is a variable?",
+            "student_id": "student_5",
+            "student_answer": "1.5 A variable is a location in the computer's memory where a value can be stored for use by a program. Each variable has a name, a value, a type and a size.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 1.875
+        },
+        {
+            "question": "1.5 What is a variable?",
+            "student_id": "student_6",
+            "student_answer": "1.5 A named object that can hold a numerical or letter value",
+            "human_scores": [
+                3.5,
+                2.0,
+                5.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 0.65
+        },
+        {
+            "question": "1.5 What is a variable?",
+            "student_id": "student_7",
+            "student_answer": "1.5 It's a sybol or name for a value/number. Example: 'a_used_number' can stand for any given number, and the programmer can refer to that number by using the variable name.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "1.5 What is a variable?",
+            "student_id": "student_8",
+            "student_answer": "1.5 A variable is a location in the computers memory where a value can be stored for use by a program",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "1.5 What is a variable?",
+            "student_id": "student_9",
+            "student_answer": "1.5 -An identifier that holds a location in memory.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.75
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 975,
+    "MAE": 1.530502564102564,
+    "MSE": 3.490352923076923,
+    "Pearson_Correlation": 0.7081043806739863,
+    "Overall_Error_Percentage": 85.33333333333334,
+    "Error_Distribution": {
+        "0-1 marks": 29.230769230769234,
+        "1-2 marks": 31.48717948717949,
+        "2-3 marks": 26.666666666666668,
+        "3-4 marks": 10.358974358974358,
+        "4+ marks": 2.2564102564102564
+    },
+    "recent_25_results": [
+        {
+            "question": "4.6 Using an index outside the bounds of the array generates an error. Is this a compilation error or a run-time error?",
+            "student_id": "student_27",
+            "student_answer": "4.6 compilation error",
+            "human_scores": [
+                1.0,
+                0.0,
+                2.0
+            ],
+            "human_avg_score": 1.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.6 Using an index outside the bounds of the array generates an error. Is this a compilation error or a run-time error?",
+            "student_id": "student_28",
+            "student_answer": "4.6 compilation error",
+            "human_scores": [
+                1.0,
+                0.0,
+                2.0
+            ],
+            "human_avg_score": 1.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.6 Using an index outside the bounds of the array generates an error. Is this a compilation error or a run-time error?",
+            "student_id": "student_29",
+            "student_answer": "4.6 It will NOT cause a compilation error. It will either give a run-time error, or will give the value at that actual location in memory, causing a logic error.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "4.6 Using an index outside the bounds of the array generates an error. Is this a compilation error or a run-time error?",
+            "student_id": "student_30",
+            "student_answer": "4.6 it is a run-time error",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_1",
+            "student_answer": "4.7 usually it is by rows then followed by the column, but it is up to the programmer to determine how values are stored in bi-dimensional arrays.",
+            "human_scores": [
+                2.5,
+                0.0,
+                5.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_2",
+            "student_answer": "4.7 by rows.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.85
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_3",
+            "student_answer": "4.7 Multi-dimensional arrays are stored in memory by rows.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.9
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_4",
+            "student_answer": "4.7 A bi-dimensional/two-dimensional array is stored in a row-column matrix. Where the first index indicates the row and the second indicates the column. This means that when array elements are accessed in the order in which they are actually stored in memory, the right index changes faster than the left.",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.9
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_5",
+            "student_answer": "4.7 They are stored in memory in rows.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.95
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_6",
+            "student_answer": "4.7 rows",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_7",
+            "student_answer": "4.7 By rows.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_8",
+            "student_answer": "4.7 by rows",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.9
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_9",
+            "student_answer": "4.7 m-by-n. by row-column.",
+            "human_scores": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.6
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_10",
+            "student_answer": "4.7 bi-dimensional arrays are stored by rows",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.85
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_11",
+            "student_answer": "4.7 By rows.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_12",
+            "student_answer": "4.7 By column.",
+            "human_scores": [
+                1.0,
+                0.0,
+                2.0
+            ],
+            "human_avg_score": 1.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_13",
+            "student_answer": "4.7 columns",
+            "human_scores": [
+                1.0,
+                0.0,
+                2.0
+            ],
+            "human_avg_score": 1.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_14",
+            "student_answer": "4.7 By rows",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_15",
+            "student_answer": "4.7 by-dimensional arrays are stored by row",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_16",
+            "student_answer": "4.7 x by y is row by column. So x is rows, and y is columns. Since the length of the row is not needed when passing the array to the function, this leads me to believe that bi-dimensional arrays are stored by rows at a time.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.375
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_17",
+            "student_answer": "4.7 Both, they are stored in seperate sections.",
+            "human_scores": [
+                2.5,
+                1.0,
+                4.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_18",
+            "student_answer": "4.7 by rows, then columns.",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.75
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_19",
+            "student_answer": "4.7 Rows",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.9
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_20",
+            "student_answer": "4.7 by rows of rows",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.15
+        },
+        {
+            "question": "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?",
+            "student_id": "student_21",
+            "student_answer": "4.7 by rows",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.9
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 625,
+    "MAE": 1.486984,
+    "MSE": 3.3156335599999998,
+    "Pearson_Correlation": 0.6927549090273455,
+    "Overall_Error_Percentage": 85.76,
+    "Error_Distribution": {
+        "0-1 marks": 29.759999999999998,
+        "1-2 marks": 34.08,
+        "2-3 marks": 24.16,
+        "3-4 marks": 10.08,
+        "4+ marks": 1.92
+    },
+    "recent_25_results": [
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_13",
+            "student_answer": "3.2 They can be used throughout the program",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_14",
+            "student_answer": "3.2 Global variable can b accessed by any class wit an object in the variables class",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_15",
+            "student_answer": "3.2 The scope of global variables is at the file level.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.75
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_16",
+            "student_answer": "3.2 Global variables all have file scope.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_17",
+            "student_answer": "3.2 it is accessible by all functions within a program",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_18",
+            "student_answer": "3.2 variables accessible anywhere in the program, as long as they are public.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_19",
+            "student_answer": "3.2 They can be referenced by any function following their declaration or definition inside the source file.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.25
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_20",
+            "student_answer": "3.2 globally, anywhere in the program.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_21",
+            "student_answer": "3.2 Global variables have a file scope",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_22",
+            "student_answer": "3.2 The entire program.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_23",
+            "student_answer": "3.2 throughout the execution of the program",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 0.5
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_24",
+            "student_answer": "3.2 If a variable is declared global, any function or class can use that variable.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.5
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_25",
+            "student_answer": "3.2 The entire program or file.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.25
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_26",
+            "student_answer": "3.2 throught the programm",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_27",
+            "student_answer": "3.2 the whole code",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 3.0
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_28",
+            "student_answer": "3.2 File scope",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_29",
+            "student_answer": "3.2 can be referenced by any function that follows their declarations or definitions in the source file",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_30",
+            "student_answer": "3.2 global variables have program scope (accessible anywhere in program)",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 0.5
+        },
+        {
+            "question": "3.2 What is the scope of global variables?",
+            "student_id": "student_31",
+            "student_answer": "3.2 variables that exist throught the entire script. their values can be changed anytime in the code and fucntions.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "3.3 How does the compiler handle inline functions?",
+            "student_id": "student_1",
+            "student_answer": "3.3 It expands the function's definition in that place. Once the functions is called you can use it as many times as you need. The compiler just expands on the function.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "3.3 How does the compiler handle inline functions?",
+            "student_id": "student_2",
+            "student_answer": "3.3 When the compiler inline-expands a function call, the function's code gets inserted into the caller's code stream (conceptually similar to what happens with a #define macro). This can, depending on a zillion other things, improve performance, because the optimizer can procedurally integrate the called code — optimize the called code into the caller.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 3.0
+        },
+        {
+            "question": "3.3 How does the compiler handle inline functions?",
+            "student_id": "student_3",
+            "student_answer": "3.3 The inline keyword advises the compiler to copy the function's code in place to avoid function calls; however the compiler can and typically does ignore the inline qualifier for all but the smallest functions.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "3.3 How does the compiler handle inline functions?",
+            "student_id": "student_4",
+            "student_answer": "3.3 The compiler can ignore the inline qualifier and typically does so for all but the smallest functions.",
+            "human_scores": [
+                3.0,
+                2.0,
+                4.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "3.3 How does the compiler handle inline functions?",
+            "student_id": "student_5",
+            "student_answer": "3.3 Placing the qualifier inline before a function's return type in the function definition \"advises\" the compiler to generate a copy of the function's code in place to avoid a function call.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.75
+        },
+        {
+            "question": "3.3 How does the compiler handle inline functions?",
+            "student_id": "student_6",
+            "student_answer": "3.3 You declare your inline function in the header or before your int main(). You then can call that function at anytime in your main program quickly and easily.",
+            "human_scores": [
+                2.0,
+                0.0,
+                4.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 0.5
+        }
+    ]
+}

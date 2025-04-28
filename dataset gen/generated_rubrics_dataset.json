@@ -1,0 +1,371 @@
+{
+  "1.1 What is the role of a prototype program in problem solving?": [
+    "Accurately explains that a prototype simulates the behavior of portions of the desired software product (2 Marks)",
+    "Demonstrates understanding of prototyping as a method for testing and refining designs before implementation (3 Marks)"
+  ],
+  "1.2 What stages in the software life cycle are influenced by the testing stage?": [
+    "Accurately lists the coding stage (phase 5) as one of the stages influenced by testing (1 Mark)",
+    "Accurately lists the solution refinement stage (phase 7) as another stage influenced by testing (1 Mark)",
+    "Provides a clear and concise explanation of how the testing stage can influence both listed stages (3 Marks)"
+  ],
+  "1.3 What are the main advantages associated with object-oriented programming?": [
+    "Accurately lists the two main advantages of object-oriented programming: abstraction and reusability (2 Marks)",
+    "Explains each advantage in a clear and concise manner, demonstrating an understanding of their significance in software development (3 Marks)"
+  ],
+  "1.4 Where do C++ programs begin to execute?": [
+    "Accurately identifies that C++ programs begin execution at the main function (2 Marks)",
+    "Demonstrates understanding of program execution by specifying 'main function' (3 Marks)"
+  ],
+  "1.5 What is a variable?": [
+    "Accurately defines a variable as a location in memory that can store a value (2 Marks)",
+    "Explains the concept of variables in a clear and concise manner (1 Mark)"
+  ],
+  "1.6 Where are variables declared in a C++ program?": [
+    "Accurately states that variables can be declared anywhere in a C++ program (2 Marks)",
+    "Correctly identifies local and global variables within the program (3 Marks)"
+  ],
+  "1.7 What is the main difference between a while and a do...while statement?": [
+    "Accurately identifies that the block inside a do...while statement will execute at least once (2 Marks)",
+    "Correctly states the main difference between a while and a do...while statement (3 Marks)"
+  ],
+  "2.1 What is typically included in a class definition?": [
+    "Accurately lists data members (attributes) as part of a class definition (1 Mark)",
+    "Accurately lists member functions as part of a class definition (1 Mark)",
+    "Provides examples or clarifies the purpose of data members and member functions in a class definition (3 Marks)"
+  ],
+  "2.2 What is the difference between a data member and a local variable inside a member function?": [
+    "Accurately describes that data members can be accessed from any member functions inside the class definition (1 Mark)",
+    "Correctly states that local variables can only be accessed inside the member function that defines them (1 Mark)",
+    "Explains the difference between a data member and a local variable in a concise manner (2 Marks)"
+  ],
+  "2.3 What is the difference between a constructor and a function?": [
+    "Accurately describes that constructors are called when an object is created, while functions need explicit calling (1 Mark)",
+    "Correctly explains that constructors do not have a return type, whereas functions must indicate a return type (2 Marks)",
+    "Demonstrates understanding of the difference between constructor and function by providing both characteristics (2 Marks)"
+  ],
+  "2.4 When does C++ create a default constructor?": [
+    "Accurately states that if no constructor is provided, the compiler provides one by default (2 Marks)",
+    "Correctly explains that if a constructor is defined for a class, the compiler does not create a default constructor (3 Marks)"
+  ],
+  "2.5 How many constructors can be created for a class?": [
+    "Accurately states that there can be an unlimited number of constructors for a class (2 Marks)",
+    "Demonstrates understanding that each constructor in a class must have a unique parameter list (1 Mark)"
+  ],
+  "2.6 What is the difference between a function prototype and a function definition?": [
+    "Accurately defines a function prototype as including the function signature (1 Mark)",
+    "Correctly identifies the function definition as containing the actual body of the function (1 Mark)",
+    "Clearly distinguishes between a function prototype and a function definition (3 Marks)"
+  ],
+  "2.7 What is the role of a header-file?": [
+    "Accurately describes that a header-file stores a class interface, including data members and member function prototypes (3 Marks)",
+    "Demonstrates understanding of the role of a header-file in organizing and structuring code by separating implementation details from the interface definition (2 Marks)"
+  ],
+  "3.1 What does a function signature include?": [
+    "Accurately lists the name of the function as part of the function signature (1 Mark)",
+    "Correctly identifies the types of parameters included in a function signature (2 Marks)",
+    "Provides an example or clarification to demonstrate understanding of function signatures (2 Marks)"
+  ],
+  "3.2 What is the scope of global variables?": [
+    "Accurately identifies the scope of global variables as 'file scope' (3 Marks)",
+    "Demonstrates understanding that global variables are accessible throughout a single file (2 Marks)"
+  ],
+  "3.3 How does the compiler handle inline functions?": [
+    "Accurately describes that inline functions are copied at every function call site (2 Marks)",
+    "Explains how the copying process affects the program's execution and memory usage (3 Marks)"
+  ],
+  "3.4 What is the main advantage associated with function arguments that are passed by reference?": [
+    "Accurately identifies that passing arguments by reference avoids making copies of large data structures when calling functions (3 Marks)",
+    "Explains the main advantage of passing arguments by reference in a clear and concise manner (2 Marks)"
+  ],
+  "3.5 How are overloaded functions differentiated by the compiler?": [
+    "Correctly explains that overloaded functions are differentiated by their function signature (2 Marks)",
+    "Demonstrates understanding of how the compiler finds the closest matching overloaded function based on the given function call (3 Marks)"
+  ],
+  "3.6 When defining a recursive function, what are possible causes for infinite recursion?": [
+    "Accurately identifies incorrect recursion step definition as a possible cause for infinite recursion (2 Marks)",
+    "Correctly identifies the absence of a base case as another possible cause for infinite recursion (3 Marks)"
+  ],
+  "3.7 What are the similarities between iteration and recursion?": [
+    "Accurately identifies that both iteration and recursion involve repetition (1 Mark)",
+    "Correctly states that both iteration and recursion have termination tests (1 Mark)",
+    "Successfully explains that both iteration and recursion can occur infinitely (3 Marks)"
+  ],
+  "4.1 What are the two different ways of specifying the length of an array?": [
+    "Accurately lists two different ways of specifying the length of an array: array declaration or initializer list (2 Marks)",
+    "Provides examples or clarifies each method with appropriate context when applicable (3 Marks)"
+  ],
+  "4.2 What is the main difference between strings declared using the type string versus strings declared using an array of characters?": [
+    "Accurately identifies that strings declared using an array of characters have a null element added at the end of the array (2 Marks)",
+    "Distinguishes between strings and arrays of characters, explaining the presence of a null element as the main difference (3 Marks)"
+  ],
+  "4.3 How are arrays passed to functions?": [
+    "Accurately states that arrays are passed by reference (2 Marks)",
+    "Provides an example or additional explanation of how passing by reference works (1 Mark)",
+    "Correctly explains the implications of passing by reference, such as changes to the array inside the function affecting the original array (2 Marks)"
+  ],
+  "4.4 What is the difference between an array declared as static, and one that is not?": [
+    "Accurately describes that static arrays live throughout the program's life and are initialized only once (2 Marks)",
+    "Explains that non-static arrays are created fresh every time the function is called (3 Marks)"
+  ],
+  "4.5 How many dimensions need to be specified when passing a multi-dimensional array as an argument to a function?": [
+    "Accurately states that all dimensions except the first one should be specified when passing a multi-dimensional array as an argument to a function (3 Marks)",
+    "Correctly identifies the first dimension as not needing to be specified (2 Marks)"
+  ],
+  "4.6 Using an index outside the bounds of the array generates an error. Is this a compilation error or a run-time error?": [
+    "Accurately identifies that accessing an index outside the bounds of an array results in a run-time error (2 Marks)",
+    "Explains why it is not a compilation error, providing reasoning related to the difference between compile-time and run-time (3 Marks)"
+  ],
+  "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?": [
+    "Accurately identifies that bi-dimensional arrays are stored in memory by rows (2 Marks)",
+    "Explains the storage method in a clear and concise manner (1 Mark)"
+  ],
+  "5.1 In one sentence, what is the main idea implemented by insertion sort?": [
+    "Accurately describes the main idea of insertion sort as inserting one array element at a time in its correct position among already sorted elements on its left (2 Marks)",
+    "Demonstrates understanding of the process by correctly explaining that the insertion is done from left to right (3 Marks)"
+  ],
+  "5.2 In one sentence, what is the main idea implemented by selection sort?": [
+    "Accurately describes that selection sort identifies the minimum from remaining elements and swaps it with the current element (2 Marks)",
+    "Correctly explains that selection sort works by taking one array element at a time, from left to right (3 Marks)"
+  ],
+  "5.3 What is the number of operations for insertion sort under a best-case scenario, and what is the best-case scenario?": [
+    "Accurately identifies the number of operations for insertion sort under best-case scenario (2 Marks)",
+    "Correctly describes the best-case scenario for insertion sort as a sorted array (3 Marks)"
+  ],
+  "5.4 What is the base case for a recursive implementation of merge sort?": [
+    "Correctly identifies the base case for recursive merge sort as an array with 1 or 2 elements (3 Marks)",
+    "Explains that the base case represents the smallest possible sorted subarray (2 Marks)"
+  ],
+  "6.1 What is a pointer?": [
+    "Accurately defines a pointer as a variable that contains the address in memory of another variable (2 Marks)",
+    "Correctly explains that a pointer refers to the location of another variable in memory (1 Mark)"
+  ],
+  "6.2 What does the address (&) operator return?": [
+    "Accurately states that the address (&) operator returns the memory address of its operand (2 Marks)",
+    "Correctly explains the concept of a memory address in terms of computer storage (1 Mark)",
+    "Provides an example or context to demonstrate the use of the address (&) operator (1 Mark)",
+    "Uses appropriate terminology and shows understanding of the topic (1 Mark)"
+  ],
+  "6.3 What does the star (*) operator return?": [
+    "Accurately defines the star (*) operator as an alias or synonym for the name of the object that its operand points to in memory (2 Marks)",
+    "Correctly identifies the star operator as a dereferencing operator (3 Marks)"
+  ],
+  "6.4 How can an array be addressed in pointer/offset notation?": [
+    "Correctly explains that an array can be addressed using pointer/offset notation by initializing a pointer to the first element of the array and incrementing it with the index of the array element (2 Marks)",
+    "Demonstrates understanding of how this approach allows for dynamic access to array elements (3 Marks)"
+  ],
+  "6.5 What does the sizeof operator return?": [
+    "Accurately defines the sizeof operator as returning the size in bytes of its operand (2 Marks)",
+    "Correctly explains that the size is measured in bytes, not memory addresses or bits (1 Mark)"
+  ],
+  "6.6 What are the different ways to pass a pointer to a function?": [
+    "Accurately lists four different ways to pass a pointer to a function: nonconstant pointer to constant data, nonconstant pointer to nonconstant data, constant pointer to constant data, constant pointer to nonconstant data (2 Marks)",
+    "Correctly explains the context of each listed way of passing a pointer to a function (3 Marks)"
+  ],
+  "6.7 What is a function pointer?": [
+    "Accurately defines a function pointer as the address of the location in memory where the function code resides (2 Marks)",
+    "Demonstrates understanding of how function pointers are used to call functions indirectly by providing their memory addresses (3 Marks)"
+  ],
+  "7.1 What is a linked list?": [],
+  "7.2 What is the main advantage of linked lists over arrays?": [
+    "Accurately identifies that linked lists can have a variable length compared to arrays (2 Marks)",
+    "Explains the advantage of having a variable length in terms of flexibility and dynamic memory allocation (3 Marks)"
+  ],
+  "7.3 What is the main advantage of arrays over linked lists?": [
+    "Clearly identifies the main advantage of arrays over linked lists, which is the ability to access elements directly (1 Mark)",
+    "Explains that arrays can be accessed directly without the need for iterative traversal compared to linked lists (2 Marks)",
+    "Provides a concise and accurate comparison between arrays and linked lists in terms of accessing elements (1 Mark)",
+    "Demonstrates understanding of data structures by highlighting a key advantage of arrays over linked lists (1 Mark)"
+  ],
+  "7.4 How are linked lists passed as arguments to a function?": [
+    "Correctly identifies that linked lists are passed by reference (2 Marks)",
+    "Demonstrates understanding of function arguments and their behavior in passing references (3 Marks)"
+  ],
+  "7.5 What is the difference between a circular linked list and a basic linked list?": [
+    "Accurately defines a circular linked list as a data structure where the last element points to the first (2 Marks)",
+    "Correctly explains that a basic linked list does not have this characteristic, i.e., the last element does not point to the first (3 Marks)"
+  ],
+  "7.6 What is the main advantage of a doubly-linked list over a basic linked list?": [
+    "Accurately identifies that deletion and insertion operations in doubly-linked lists can be performed efficiently (constant time) (2 Marks)",
+    "Explains that this advantage also applies to operations before a given location or at the end of the list (3 Marks)"
+  ],
+  "7.7 What is the main disadvantage of a doubly-linked list over a basic linked list?": [
+    "Accurately identifies that doubly-linked lists require extra space for back pointers due to their additional links (2 Marks)",
+    "Explains the main disadvantage of this extra space requirement in terms of memory usage or complexity (3 Marks)"
+  ],
+  "8.1 What is a stack?": [
+    "Accurately defines a stack as a data structure that stores elements with the property of last-in-first-out (LIFO) (2 Marks)",
+    "Explains the key characteristic of a stack that the last item added will be the first to be removed (1 Mark)",
+    "Provides an example or analogy to illustrate the concept of a stack (1 Mark)",
+    "Demonstrates understanding of the fundamental operations performed on a stack such as push, pop and peek (1 Mark)",
+    "Explains any limitations or advantages associated with using a stack (1 Mark)"
+  ],
+  "8.2 What are the two main functions defined by a stack?": [
+    "Accurately lists the two main functions defined by a stack, i.e., 'push' and 'pop' (2 Marks)",
+    "Demonstrates understanding of these functions by providing brief explanations or examples, if applicable (3 Marks)"
+  ],
+  "8.3 How can you implement a stack with an array?": [
+    "Accurately describes that the top of the stack is located at the end of the array for efficient push and pop operations (2 Marks)",
+    "Correctly explains how adding and removing elements will be performed from the right side of the array (3 Marks)"
+  ],
+  "8.4 How can you implement a stack with a list?": [
+    "Accurately describes that the top of the stack points to the head of the list for push and pop operations (2 Marks)",
+    "Correctly explains how adding or removing elements in a list-based stack will be performed at the beginning of the list (3 Marks)"
+  ],
+  "8.5 Which implementation (array-based vs. list-based) is preferred, and why?": [
+    "Clearly identifies the two implementations (array-based vs. list-based) being compared (1 Mark)",
+    "Provides a clear reason for preferring link-based implementation due to its dynamic nature and lack of size constraints (3 Marks)",
+    "Demonstrates understanding of the benefits of dynamic data structures, such as linked lists, over static ones like arrays (1 Mark)"
+  ],
+  "8.6 How are infix expressions evaluated by computers?": [
+    "Accurately describes the process of converting infix expressions into postfix form (2 Marks)",
+    "Correctly explains that the evaluation follows after conversion to postfix expression (1 Mark)",
+    "Demonstrates understanding of the importance of this process in computer evaluation of infix expressions (2 Marks)"
+  ],
+  "8.7 What operations would you need to perform to find a given element on a stack?": [
+    "Accurately describes the steps required to find an element on a stack using the 'Pop' operation until the desired element is found, then pushes all elements back onto the original stack (3 Marks)",
+    "Demonstrates understanding of the LIFO (Last In First Out) principle in stacks by explaining that elements are popped from the top and pushed back to the bottom (2 Marks)"
+  ],
+  "9.1 What is a queue?": [
+    "Defines a queue as a data structure that stores elements, with the property of first-in-first-out (2 Marks)",
+    "Accurately describes the property of a queue where the last item added will be the last to be removed (3 Marks)"
+  ],
+  "9.2 What are the two main functions defined by a queue?": [
+    "Accurately lists the two main functions defined by a queue: enqueue and dequeue (2 Marks)",
+    "Provides a clear explanation of what each function does within a queue (3 Marks)"
+  ],
+  "9.3 How can you implement a queue with an array?": [
+    "Correctly describes the use of a circular array for implementing a queue (2 Marks)",
+    "Explains how to position the rear and front of the queue in the array appropriately (1 Mark)",
+    "Demonstrates understanding of wrapping around the array when the rear pointer reaches the end (1 Mark)",
+    "Provides a clear explanation on the advantages of using a circular array for implementing a queue (1 Mark)"
+  ],
+  "9.4 How can you implement a queue with a list?": [
+    "Accurately describes that enqueue operation is done at the end of the list (1 Mark)",
+    "Accurately describes that dequeue operation is done at the beginning of the list (1 Mark)",
+    "Explains how to maintain the rear and front of the queue in a linked list (2 Marks)"
+  ],
+  "9.5 Which implementation (array-based vs. list-based) is preferred for a queue, and why?": [
+    "Correctly identifies link-based implementation as preferred for a queue due to its dynamic nature and lack of size constraints (2 Marks)",
+    "Provides a rationale or additional explanation for the chosen implementation, demonstrating understanding of the advantages over array-based implementations (3 Marks)"
+  ],
+  "9.6 What is the stack operation corresponding to the enqueue operation in queues?": [
+    "Accurately identifies the stack operation corresponding to the enqueue operation in queues as 'push' (2 Marks)",
+    "Provides a concise and clear explanation for the chosen answer (3 Marks)"
+  ],
+  "9.7 What data structure is more appropriate for scheduling printing jobs at a printer, a stack or a queue?": [
+    "Correctly identifies that a queue is more appropriate for scheduling printing jobs (4 Marks)",
+    "Explains why a queue is more suitable for this scenario, demonstrating understanding of FIFO principle (1 Mark)"
+  ],
+  "10.1 What is a tree?": [
+    "Accurately defines a tree as a collection of nodes, including the root node and disjoint sets (2 Marks)",
+    "Correctly explains that each set within a tree is itself also a tree (3 Marks)"
+  ],
+  "10.2 What is the height of a tree?": [],
+  "10.3 What is a leaf?": [
+    "Accurately defines a leaf as a node that has no children (2 Marks)",
+    "Demonstrates understanding of tree structure by correctly describing a leaf's unique characteristic (3 Marks)"
+  ],
+  "10.4 What is a binary tree?": [
+    "Accurately defines a binary tree as a tree with a maximum of two children per node (3 Marks)",
+    "Provides an example or additional explanation to demonstrate understanding of the concept (2 Marks)"
+  ],
+  "10.5 What is a binary search tree?": [
+    "Accurately defines a binary search tree as a type of tree where the left child is always smaller than the parent, which in turn is smaller than the right child (3 Marks)",
+    "Correctly explains the property that the node's left child is always smaller and the right child is larger than the parent (2 Marks)"
+  ],
+  "10.6 What is the inorder traversal of a binary tree?": [
+    "Accurately describes the sequence of traversal: left subtree, root, right subtree (3 Marks)",
+    "Provides a concise and clear explanation (2 Marks)"
+  ],
+  "10.7 How many comparisons does it take to find an element in a binary search tree?": [
+    "Accurately identifies the number of comparisons required in a binary search tree as the height or logarithm of the number of elements (3 Marks)",
+    "Demonstrates understanding of the efficiency of binary search trees by correctly stating that fewer comparisons are needed compared to linear search (2 Marks)"
+  ],
+  "11.1 What are the elements typically included in a class definition?": [
+    "Accurately lists function members and data members as elements typically included in a class definition (2 Marks)",
+    "Provides examples or elaborates on the role of each element within a class definition (3 Marks)"
+  ],
+  "11.2 What are the access-specifiers that can be used in a C++ class definition?": [
+    "Accurately lists private and public as access-specifiers used in a C++ class definition (2 Marks)",
+    "Demonstrates understanding that there are only two access-specifiers in a C++ class: private and public (3 Marks)"
+  ],
+  "11.3 How are objects initialized when they are created?": [
+    "Clearly identifies constructors as the method used for initializing objects when they are created (2 Marks)",
+    "Provides an example or explains the process of using a constructor to initialize an object (1 Mark)",
+    "Explains how constructors can take arguments and use them to set initial values for instance variables (1 Mark)",
+    "Demonstrates understanding that constructors can be explicitly defined or implicitly created by the language (1 Mark)",
+    "Shows awareness of any special considerations or conventions when using constructors in a specific programming language (1 Mark)"
+  ],
+  "11.4 What is a function signature?": [
+    "Accurately defines the function signature as the name of the function and its parameters, including their types (2 Marks)",
+    "Provides a clear explanation of why the function signature is important in programming (1 Mark)",
+    "Uses appropriate terminology and demonstrates understanding of the concept (1 Mark)",
+    "Presents the answer in a concise and well-structured manner (1 Mark)"
+  ],
+  "11.5 What is a recursive function?": [
+    "Accurately defines a recursive function as a function that calls itself (2 Marks)",
+    "Provides an example or explanation of how a recursive function works, demonstrating understanding (3 Marks)"
+  ],
+  "11.6 What is the alternative way to solve a problem that could be solved through recursive functions?": [
+    "Clearly identifies iteration as an alternative method to solve problems that could be solved through recursive functions (2 Marks)",
+    "Provides a concise and accurate description of iteration, demonstrating understanding of the concept (3 Marks)"
+  ],
+  "11.7 What is the difference between an array that is declared as static and one that is not?": [
+    "Accurately describes that static arrays are initialized only once when the function is called (2 Marks)",
+    "Correctly explains the difference between a static array and one that is not declared as static (3 Marks)"
+  ],
+  "11.8 What is the main difference between a string of characters that is read into a variable of type string versus a variable of type char[]?": [],
+  "11.9 Briefly describe the divide-and-conquer paradigm.": [
+    "Accurately describes that the divide-and-conquer paradigm involves breaking down a problem into smaller subproblems (2 Marks)",
+    "Correctly explains that these subproblems are solved recursively and their solutions combined to solve the original problem (3 Marks)"
+  ],
+  "11.10 Briefly describe in one sentence how does merge sort work?": [
+    "Accurately describes that merge sort splits the original array into two, sorts each half, and merges the sorted arrays (4 Marks)",
+    "Uses a concise and clear sentence to describe how merge sort works (1 Mark)"
+  ],
+  "12.1 What is a pointer?": [
+    "Accurately defines a pointer as the address of a location in memory (2 Marks)",
+    "Demonstrates understanding that pointers are used to access and manipulate data stored at specific memory addresses (3 Marks)"
+  ],
+  "12.2 What is the experimental approach for measuring the running time of an algorithm?": [
+    "Accurately describes the experimental approach for measuring algorithm running time by implementing the algorithm and measuring its physical running time (4 Marks)",
+    "Demonstrates understanding of the need to implement the algorithm in order to measure its running time (1 Mark)"
+  ],
+  "12.3 Order the following functions by their running time: n^2; log(log n) ; 2^(log n) ; n! ; n^3.": [
+    "Correctly orders the functions in ascending order of running time: log(log n) < 2^(log n) < n^2 < n^3 < n! (2 Marks)",
+    "Provides a clear and concise explanation for each function's position in the ordered list (3 Marks)"
+  ],
+  "12.4 Briefly, how does selection sort work?": [
+    "Accurately describes the process of selection sort where the minimum value is selected from an array and placed in its correct position (2 Marks)",
+    "Sequentially explains the steps taken by selection sort, i.e., selecting the minimum from the entire array, placing it in its correct position, then repeating the process for the remaining elements (3 Marks)"
+  ],
+  "12.5 What is the advantage of linked lists over arrays?": [
+    "Clearly explains that linked lists are dynamic structures, allowing for a variable number of elements (2 Marks)",
+    "Accurately identifies the advantage of linked lists over arrays as being able to store a variable number of elements efficiently (3 Marks)"
+  ],
+  "12.6 What is a queue?": [
+    "Accurately defines a queue as a data structure that follows the first in, first out principle (2 Marks)",
+    "Correctly identifies enqueue and dequeue as the main operations of a queue (1 Mark)",
+    "Explains the importance of order in a queue using the phrase 'first in, first out' (1 Mark)",
+    "Demonstrates understanding of the principle by providing examples or analogies if appropriate (1 Mark)"
+  ],
+  "12.7 What are the main operations associated with a stack?": [
+    "Accurately lists the main operations associated with a stack, specifically 'push' and 'pop' (2 Marks)",
+    "Demonstrates understanding of these operations by providing concise and relevant examples or explanations (3 Marks)"
+  ],
+  "12.8 What is the Euler tour traversal of a tree?": [
+    "Accurately defines Euler tour traversal as a walk around the tree starting with the root, each node seen three times: from left, below, and right (2 Marks)",
+    "Correctly explains the sequence of visits to a node in Euler tour traversal: first seen from the left, then from below, and finally from the right (3 Marks)"
+  ],
+  "12.9 How do you delete a node from a binary search tree?": [
+    "Accurately describes the process of finding the node to be deleted (1 Mark)",
+    "Correctly explains replacing the target node with the leftmost node from its right subtree or the rightmost node from its left subtree (2 Marks)",
+    "Demonstrates understanding of how this operation maintains the binary search tree property of sortedness (1 Mark)",
+    "Provides a clear and concise explanation, avoiding unnecessary details or errors (1 Mark)",
+    "Uses appropriate terminology and follows the required format for describing algorithmic steps (1 Mark)"
+  ],
+  "12.10 How many steps does it take to search a node in a binary search tree?": [
+    "Accurately identifies the number of steps in searching a node in a binary search tree as the height of the tree (2 Marks)",
+    "Demonstrates understanding of binary search tree structure by providing a concise and correct answer (3 Marks)"
+  ]
+}

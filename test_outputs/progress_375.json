@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 375,
+    "MAE": 1.3089733333333333,
+    "MSE": 2.801715933333333,
+    "Pearson_Correlation": 0.7283435086892778,
+    "Overall_Error_Percentage": 81.06666666666666,
+    "Error_Distribution": {
+        "0-1 marks": 37.06666666666666,
+        "1-2 marks": 32.266666666666666,
+        "2-3 marks": 21.6,
+        "3-4 marks": 7.466666666666668,
+        "4+ marks": 1.6
+    },
+    "recent_25_results": [
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_4",
+            "student_answer": "2.1 Since class is user defined, the body of the declaration can contain members, that can be either data or function declarations, and optionally access specifiers. Example for specifiers would be public, private, and protected. There is the keyword Class and the Class body is enclosed with brackets ({}).",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.625
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_5",
+            "student_answer": "2.1 An object and data.",
+            "human_scores": [
+                2.0,
+                1.0,
+                3.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 0.75
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_6",
+            "student_answer": "2.1 It's specific class name, includes only information defined by that class... implementation details... etc.",
+            "human_scores": [
+                3.0,
+                2.0,
+                4.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_7",
+            "student_answer": "2.1 data members and member functions.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_8",
+            "student_answer": "2.1 A class definition usually contains the function and its data members",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.875
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_9",
+            "student_answer": "2.1 Data members and member functions",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_10",
+            "student_answer": "2.1 member functions",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.25
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_11",
+            "student_answer": "2.1 Member functions and data members belonging to the class.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_12",
+            "student_answer": "2.1 a public and private area that includes the functions and variables that are used in the class",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 3.65
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_13",
+            "student_answer": "2.1 the keyword class followed by they class name, on the inside you declare public and private declarations of your class",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.25
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_14",
+            "student_answer": "2.1 A class definition typically includes function definitions.",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 1.25
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_15",
+            "student_answer": "2.1 It begins with Class, followed by the class name, then usually a constructor, data members and member functions that delineates the class is included in any class's definition.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.75
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_16",
+            "student_answer": "2.1 the data and methods",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 3.75
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_17",
+            "student_answer": "2.1 A constructor, functions, and variables that are accessible to by that class, and possibly other classes depending on how they are done.",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 3.25
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_18",
+            "student_answer": "2.1 Member functions and data members.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_19",
+            "student_answer": "2.1 public section and private section, and there must be a semicolon to set the end",
+            "human_scores": [
+                2.5,
+                1.0,
+                4.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 0.5
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_20",
+            "student_answer": "2.1 member funtions and data members",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_21",
+            "student_answer": "2.1 Data members and Member functions",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_22",
+            "student_answer": "2.1 data members and member functions",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_23",
+            "student_answer": "2.1 the class name and its public data types such as constructors, methods, functions.",
+            "human_scores": [
+                3.5,
+                2.0,
+                5.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.9
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_24",
+            "student_answer": "2.1 a constructor and several data members, and at least one public data member or method",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 3.5
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_25",
+            "student_answer": "2.1 class name, two curly prenthesis, public and private",
+            "human_scores": [
+                2.0,
+                1.0,
+                3.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_26",
+            "student_answer": "2.1 data members and member functions",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_27",
+            "student_answer": "2.1 Data and functions",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 3.25
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_28",
+            "student_answer": "2.1 functions and data members that belong to the class",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        }
+    ]
+}

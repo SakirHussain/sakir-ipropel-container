@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 400,
+    "MAE": 1.3683500000000002,
+    "MSE": 2.9769414999999997,
+    "Pearson_Correlation": 0.7189300199393701,
+    "Overall_Error_Percentage": 82.25,
+    "Error_Distribution": {
+        "0-1 marks": 35.0,
+        "1-2 marks": 31.75,
+        "2-3 marks": 23.25,
+        "3-4 marks": 8.5,
+        "4+ marks": 1.5
+    },
+    "recent_25_results": [
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_29",
+            "student_answer": "2.1 class variables, function definitions for the class",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "2.1 What is typically included in a class definition?",
+            "student_id": "student_30",
+            "student_answer": "2.1 A class is an expanded concept of a data structure, it holds both the data and the functions being executed",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 3.2
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_1",
+            "student_answer": "2.2 Data members are the data components of a particular class. A member function are the functioning components of the class.",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_2",
+            "student_answer": "2.2 A field variable is a variable that is declared as a member of a class. A local variable is avariable that isdeclared local to a method.",
+            "human_scores": [
+                2.5,
+                1.0,
+                4.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_3",
+            "student_answer": "2.2 Data members are declared inside the class, but outside of any member functions. Unlike with local variables, each object of the class keeps its own copy of the data members stored in memory.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_4",
+            "student_answer": "2.2 Data member are variables that represent an attribute in a class definition. Local variables declared in a function body cannot be used outside of that function body. When a function terminates the values of its local variables are lost.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_5",
+            "student_answer": "2.2 A local variable cannot be accessed outside the function in which it is declared. Data members normally are private. Variables of functions declared private are accessible only to member functions of the class in which they are declared.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_6",
+            "student_answer": "2.2 A data member is part of a C++ class or structure that stores data of a certain type... A local variable inside a member function is only available inside that function, and can be used to derive a desired outcome.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.25
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_7",
+            "student_answer": "2.2 A local variable can only be accessed within the scope of its declaration.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_8",
+            "student_answer": "2.2 Data members are the atributes of the function and can be used outside the function. Local variable can not be used outside the function and the value is lost after the function terminates.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_9",
+            "student_answer": "2.2 data members are permanent attributes of the class, local variables inside a member function are lost when the scope of the member function ends.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_10",
+            "student_answer": "2.2 data members are declared in a class definition but outside the bodies of a class's member-function definitions. Local variables are declared in a function definition's body",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_11",
+            "student_answer": "2.2 A data member is globally accessible, while a local variable is only accessible inside the member function.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_12",
+            "student_answer": "2.2 A variable inside a member function can only be accessed inside that member and a data member can be accessed throughought the program.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_13",
+            "student_answer": "2.2 Local variables are used only within the scope of its declaration",
+            "human_scores": [
+                4.5,
+                5.0,
+                4.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.45
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_14",
+            "student_answer": "2.2 A data member is a more general term describing all objects instantiated within a member function. \"Local\" in local variables refers more to the scope of a variable, which may be located in anything from a control structure to a class. Local variables whose scope are in a member function are the same as data members of member functions.",
+            "human_scores": [
+                2.0,
+                0.0,
+                4.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_15",
+            "student_answer": "2.2 A data member exists permanently in that program's memory as long as it's run. A local variable inside a member function is temporal and only used to operate in the function and exists as long as the function is run.",
+            "human_scores": [
+                3.5,
+                2.0,
+                5.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_16",
+            "student_answer": "2.2 local variables can only be used within the function, where as data members can be set to public access and can be used throughout",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_17",
+            "student_answer": "2.2 The local variable is lost once it exits the block of code, while the data member is not.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.875
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_18",
+            "student_answer": "2.2 Every member function can access and modify a data member. A local variable can only be used from the line of declaration to the next closing } before it is lost from memory.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 4.0
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_19",
+            "student_answer": "2.2 data member is accessible to all functions in the class, where local variable is only available to the member function and value is lost when function closes",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_20",
+            "student_answer": "2.2 Data members are variables that are declared inside the class definition but outside of the bodies of the class member functions. Local variables can only be used within the function declaration.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.75
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_21",
+            "student_answer": "2.2 The data member can be accessed outside of the class, whereas the local variable cannot.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_22",
+            "student_answer": "2.2 Local variables cannot be used outside of that function body. When a function terminates the values of its local variables are lost. Where as data members are variables in a class definition, and they exist throughout the life of the object.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 1.75
+        },
+        {
+            "question": "2.2 What is the difference between a data member and a local variable inside a member function?",
+            "student_id": "student_23",
+            "student_answer": "2.2 a local variable in a member function has to be static. a data member can change its value freely.",
+            "human_scores": [
+                2.0,
+                0.0,
+                4.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 0.0
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 475,
+    "MAE": 1.4391894736842106,
+    "MSE": 3.118509947368421,
+    "Pearson_Correlation": 0.7175952176013126,
+    "Overall_Error_Percentage": 84.63157894736842,
+    "Error_Distribution": {
+        "0-1 marks": 30.736842105263158,
+        "1-2 marks": 34.10526315789474,
+        "2-3 marks": 25.05263157894737,
+        "3-4 marks": 8.842105263157894,
+        "4+ marks": 1.263157894736842
+    },
+    "recent_25_results": [
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_14",
+            "student_answer": "2.4 C++ will create a default constructor when no other constructor is present.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.25
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_15",
+            "student_answer": "2.4 When no constructor was specified in the constructor's class, but the class is instantiated in a program.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_16",
+            "student_answer": "2.4 When no constructor exists when one is needed, a parameterless default constructor is declared.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_17",
+            "student_answer": "2.4 The Compiler creates this automatically for you, unless you specifically create one.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_18",
+            "student_answer": "2.4 In any class that doesn't explicitly include a constructor.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_19",
+            "student_answer": "2.4 when no user-defined constructor exists",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.75
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_20",
+            "student_answer": "2.4 If a class does not explicitly include a constructor, the compiler creates one.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.25
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_21",
+            "student_answer": "2.4 When you do not provide your own constructor.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_22",
+            "student_answer": "2.4 When a class does not explicitly include a constructor.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_23",
+            "student_answer": "2.4 C++ creates a default constructor during compilation if one is not provided.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.25
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_24",
+            "student_answer": "2.4 when a class does not explicitly include a constructor",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_25",
+            "student_answer": "2.4 The compiler will provide one when class does not explictly include a consructor.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.25
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_26",
+            "student_answer": "2.4 when the programmer does not explicitly include a constructor",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_27",
+            "student_answer": "2.4 When one is not explicitly stated.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.75
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_28",
+            "student_answer": "2.4 when one is not explicitly included by a class",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_29",
+            "student_answer": "2.4 When you dont specify any constructors.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "2.4 When does C++ create a default constructor?",
+            "student_id": "student_30",
+            "student_answer": "2.4 at the very beginning when you run a complier, matter a fact in C++ it generates its own default constructor for the class provided if no other constructors have been provided by user",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_1",
+            "student_answer": "2.5 Just one per class.",
+            "human_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "human_avg_score": 0.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_2",
+            "student_answer": "2.5 As many as you want so long as they have different parameters.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_3",
+            "student_answer": "2.5 There is no limit to the number of constructors in a class because like functions, constructors can be overloaded.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_4",
+            "student_answer": "2.5 It depends what type of class is being defined. Typically you would have a constructor call for each object.",
+            "human_scores": [
+                1.5,
+                1.0,
+                2.0
+            ],
+            "human_avg_score": 1.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_5",
+            "student_answer": "2.5 In C++, the constructor can be overloaded in that there can be more than one constructor for a class, each having different parameters.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_6",
+            "student_answer": "2.5 1",
+            "human_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "human_avg_score": 0.0,
+            "procot_score": 0.25
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_7",
+            "student_answer": "2.5 any number you want",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 1.35
+        },
+        {
+            "question": "2.5 How many constructors can be created for a class?",
+            "student_id": "student_8",
+            "student_answer": "2.5 One",
+            "human_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "human_avg_score": 0.0,
+            "procot_score": 0.0
+        }
+    ]
+}

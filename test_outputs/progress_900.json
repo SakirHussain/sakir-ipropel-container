@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 900,
+    "MAE": 1.51935,
+    "MSE": 3.467376083333333,
+    "Pearson_Correlation": 0.6998885480567489,
+    "Overall_Error_Percentage": 85.33333333333334,
+    "Error_Distribution": {
+        "0-1 marks": 29.888888888888886,
+        "1-2 marks": 32.33333333333333,
+        "2-3 marks": 24.77777777777778,
+        "3-4 marks": 10.555555555555555,
+        "4+ marks": 2.4444444444444446
+    },
+    "recent_25_results": [
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_12",
+            "student_answer": "4.4 All elements are initialized to zero if not explicitly initialized for a static array, while a non-static array is not initialized to zero.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_13",
+            "student_answer": "4.4 static cannot be changed",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_14",
+            "student_answer": "4.4 A static array has a set size that cannot change. The data may not need all of the space assigned, or could go beyond the size.",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_15",
+            "student_answer": "4.4 A static member prevents naming conflicts (not put into global namespace) while allowing for information hiding (private, public).",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_16",
+            "student_answer": "4.4 A static local array exists for the duration of the program and its elements are initialized to 0 if not explicitly initialized. So a static local array's elements will still be the same when called later unless specifically initialized to something else. This doesn't happen for automatic arrays.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_17",
+            "student_answer": "4.4 Static arrays are those with a declared size, that is known to the program, whereas non-static arrays leave the size undeclared and open so it can be assigned later. Usually used for input purposes.",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_18",
+            "student_answer": "4.4 static arrays keep the values after the end of a function, while non static reinitialize every time.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_19",
+            "student_answer": "4.4 Static arrays are created and initialized only once, and the values aren't destroyed when the function terminates in the program. Automatic arrays reset everytime the function is called.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.5
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_20",
+            "student_answer": "4.4 its not created and initialized each time program calls the function, and is not destroyed every time the function ends in the program.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_21",
+            "student_answer": "4.4 When we declare it static the array is not destroyed after the function is over. When an array is not declared as static, the array is created and initialized every time a function calls it.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.5
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_22",
+            "student_answer": "4.4 the static array exists for the duration of the program",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_23",
+            "student_answer": "4.4 an array declared as static can only be declared once",
+            "human_scores": [
+                3.5,
+                2.0,
+                5.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_24",
+            "student_answer": "4.4 A static array exists in memory until the program terminates, whereas an automatic (or normal) array is removed when the function that created it terminates",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_25",
+            "student_answer": "4.4 not answered",
+            "human_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "human_avg_score": 0.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_26",
+            "student_answer": "4.4 Only constants can be used to declare the size of automatic and static arrays Exists for the duration of the program Is initialized when its declaration is first encountered All elements are initialized to zero if not explicitly initialized",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 1.75
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_27",
+            "student_answer": "4.4 A static array cannot be changed in the program.",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_28",
+            "student_answer": "4.4 static arrays are available throughout the program",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 1.25
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_29",
+            "student_answer": "4.4 a static array is allocated when the program starts and is freed when the program exits but has limited scope, while an array that is not declared static is allocated and freed when it comes into and out of scope.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.4 What is the difference between an array declared as static, and one that is not?",
+            "student_id": "student_30",
+            "student_answer": "4.4 if they are declared fixed or static that means they can't change size once their storage has been allocated, however one that is not or dynamic arrarys can be resized.",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.5 How many dimensions need to be specified when passing a multi-dimensional array as an argument to a function?",
+            "student_id": "student_1",
+            "student_answer": "4.5 at least 2, depending on how many arrays are being used.",
+            "human_scores": [
+                2.5,
+                1.0,
+                4.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.5 How many dimensions need to be specified when passing a multi-dimensional array as an argument to a function?",
+            "student_id": "student_2",
+            "student_answer": "4.5 all of them.",
+            "human_scores": [
+                3.5,
+                2.0,
+                5.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.5 How many dimensions need to be specified when passing a multi-dimensional array as an argument to a function?",
+            "student_id": "student_3",
+            "student_answer": "4.5 When passing a multi-dimensional array, all dimensions must be specified except for the first dimension.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "4.5 How many dimensions need to be specified when passing a multi-dimensional array as an argument to a function?",
+            "student_id": "student_4",
+            "student_answer": "4.5 It depends what parameters you are passing in a multidimensional. A multideminsional can have more than two dimensions.",
+            "human_scores": [
+                3.5,
+                2.0,
+                5.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.5 How many dimensions need to be specified when passing a multi-dimensional array as an argument to a function?",
+            "student_id": "student_5",
+            "student_answer": "4.5 The first dimension is not required however the subsequent dimension(s) are needed for the compiler.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "4.5 How many dimensions need to be specified when passing a multi-dimensional array as an argument to a function?",
+            "student_id": "student_6",
+            "student_answer": "4.5 all but the first",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        }
+    ]
+}

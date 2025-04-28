@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 850,
+    "MAE": 1.4730176470588237,
+    "MSE": 3.2794305588235293,
+    "Pearson_Correlation": 0.7069506162661592,
+    "Overall_Error_Percentage": 85.05882352941177,
+    "Error_Distribution": {
+        "0-1 marks": 30.823529411764707,
+        "1-2 marks": 33.1764705882353,
+        "2-3 marks": 24.58823529411765,
+        "3-4 marks": 9.294117647058824,
+        "4+ marks": 2.1176470588235294
+    },
+    "recent_25_results": [
+        {
+            "question": "4.2 What is the main difference between strings declared using the type string versus strings declared using an array of characters?",
+            "student_id": "student_22",
+            "student_answer": "4.2 strings declared using an array of characters could result in data loss if character array not initialized large enough.",
+            "human_scores": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 1.5
+        },
+        {
+            "question": "4.2 What is the main difference between strings declared using the type string versus strings declared using an array of characters?",
+            "student_id": "student_23",
+            "student_answer": "4.2 an array is passed by reference therefore if an array of characters is changed, the memory is changed not just the variable",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "4.2 What is the main difference between strings declared using the type string versus strings declared using an array of characters?",
+            "student_id": "student_24",
+            "student_answer": "4.2 the type string has several built-in functions not available when using a char array, but the individual characters in an array or more directly accessible than the characters in a string type string.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.2 What is the main difference between strings declared using the type string versus strings declared using an array of characters?",
+            "student_id": "student_25",
+            "student_answer": "4.2 declaring a string, it includes white spaces but declaring a array of character does not include white spaces",
+            "human_scores": [
+                1.5,
+                0.0,
+                3.0
+            ],
+            "human_avg_score": 1.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.2 What is the main difference between strings declared using the type string versus strings declared using an array of characters?",
+            "student_id": "student_26",
+            "student_answer": "4.2 an array of characters has one element a string doesnt have. it is the termination element, or \"null\"",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "4.2 What is the main difference between strings declared using the type string versus strings declared using an array of characters?",
+            "student_id": "student_27",
+            "student_answer": "4.2 Strings declared using the type string can vary in length. Strings declared using an array of characters can not extend past the array length.",
+            "human_scores": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.2 What is the main difference between strings declared using the type string versus strings declared using an array of characters?",
+            "student_id": "student_28",
+            "student_answer": "4.2 cant modify individual characters of a type string array, character type array can modify individual characters",
+            "human_scores": [
+                2.5,
+                1.0,
+                4.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 0.75
+        },
+        {
+            "question": "4.2 What is the main difference between strings declared using the type string versus strings declared using an array of characters?",
+            "student_id": "student_29",
+            "student_answer": "4.2 the type string is a class and is safer, while the other is just an array of characters.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.75
+        },
+        {
+            "question": "4.2 What is the main difference between strings declared using the type string versus strings declared using an array of characters?",
+            "student_id": "student_30",
+            "student_answer": "4.2 array it is the collection of similar data types ex:int a[10] ten indicates the size of array. [ ] is index of array, we can give only integer values to array of a. where as string mean collection of group of characters. string declarations have a datatype usually causes storage to be allocated in memory that is capable of holding some predetermined number of symbols. However Arrays can be declared to contain values of any non reference data type. Multiple arrarys of the same type",
+            "human_scores": [
+                2.5,
+                1.0,
+                4.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_1",
+            "student_answer": "4.3 by reference only",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.75
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_2",
+            "student_answer": "4.3 a reference pointer to an element in the array.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_3",
+            "student_answer": "4.3 Arrays are passed to functions by reference.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_4",
+            "student_answer": "4.3 -Arrays are passed by reference -Individual array elements passed by value -Functions that take arrays as arguments -Function prototypes may include parameter names -const array parameters",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_5",
+            "student_answer": "4.3 Arrays are passed by reference.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_6",
+            "student_answer": "4.3 you must pass the array and its size to the function. Ex. function(array, size);",
+            "human_scores": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_7",
+            "student_answer": "4.3 Usually the same way you pass anything else... you do not have to specify the length of a char array, just pass it to the function by sending the name of the array. Example: char str[20]; isPalindrome(str); // this sends the char array to the function isPalindrome. Otherwise, would need to send the length of the array as well.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_8",
+            "student_answer": "4.3 you pass a pointer to the first item and also pass the size.",
+            "human_scores": [
+                3.5,
+                4.0,
+                3.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.25
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_9",
+            "student_answer": "4.3 By reference.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.25
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_10",
+            "student_answer": "4.3 In two parts, the array itself, and it's size, so that the function it's being passed to can avoid out of bounds errors.",
+            "human_scores": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_11",
+            "student_answer": "4.3 Specify array name without brackets. Array size is normally passed as another argument so the function can process the specific number of elements in the array. Arrays are passed by reference. Individual array elements passed by value. Functions that take arrays as arguments.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_12",
+            "student_answer": "4.3 Arrays are passed by reference.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_13",
+            "student_answer": "4.3 the same way but with [] at the declaration and the actual function.",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_14",
+            "student_answer": "4.3 specify the array name without brackets.",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.25
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_15",
+            "student_answer": "4.3 by reference",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "4.3 How are arrays passed to functions?",
+            "student_id": "student_16",
+            "student_answer": "4.3 You pass the name of the array to the function. So for: int bin [10]; you pass it to an array like so: jingle(bin); but jingle must be declared correctly in order to receive an array, either with prototype void jingle (int []); or with the definition in its initialization: void jingle (int array[]); It's also worth noting that arrays are passed to function by reference, so as to not copy large arrays over and over and burn memory. This gives the function complete control over the array however.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        }
+    ]
+}

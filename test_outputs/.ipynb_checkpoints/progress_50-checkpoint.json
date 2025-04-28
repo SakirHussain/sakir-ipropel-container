@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 50,
+    "MAE": 0.98,
+    "MSE": 1.5225,
+    "Pearson_Correlation": 0.7398410392218802,
+    "Overall_Error_Percentage": 86.0,
+    "Error_Distribution": {
+        "0-1 marks": 44.0,
+        "1-2 marks": 42.0,
+        "2-3 marks": 10.0,
+        "3-4 marks": 4.0,
+        "4+ marks": 0.0
+    },
+    "recent_25_results": [
+        {
+            "question": "1.1 What is the role of a prototype program in problem solving?",
+            "student_id": "student_26",
+            "student_answer": "1.1 The role of a prototype program is to help spot key problems that may arise during the actual programing.",
+            "human_scores": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 1.5
+        },
+        {
+            "question": "1.1 What is the role of a prototype program in problem solving?",
+            "student_id": "student_27",
+            "student_answer": "1.1 the prototype program gives a general idea of what the end product will do, without the time and effort to write out the entire program.",
+            "human_scores": [
+                3.0,
+                4.0,
+                2.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "1.1 What is the role of a prototype program in problem solving?",
+            "student_id": "student_28",
+            "student_answer": "1.1 to show that a certain part of the program works as it is supposed to",
+            "human_scores": [
+                3.0,
+                4.0,
+                2.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "1.1 What is the role of a prototype program in problem solving?",
+            "student_id": "student_29",
+            "student_answer": "1.1 Prototype programming is an approach to programming that enables one to take an organized approach to developing an effective program with minimal errors and a strategic pattern when solving a problem. i.e. book gave an example of a costumer withdrawing money from a bank, the approach that was taking on a pseudo code level during the OOA/Design lvl before proceeding into creating a solution.",
+            "human_scores": [
+                2.5,
+                3.0,
+                2.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_1",
+            "student_answer": "1.2 Refining and possibly the design if the testing phase reveals problems in the design. Production can be affected if the program is unworkable in its current form which will lead to a later production time than originally estimated. Also affects coding because after testing you may need to rewrite the code for the program to remove errors.",
+            "human_scores": [
+                3.5,
+                5.0,
+                2.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 3.75
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_2",
+            "student_answer": "1.2 The implementation phase and the maintenance phase are effected",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_3",
+            "student_answer": "1.2 Verification, coding, refining the solution and maintenance are all influenced by the testing stage.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 4.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_4",
+            "student_answer": "1.2 In RUP the stages in the software life cycle are influenced by the testing stage is: Elaboration phase- refined progject vision, iterative devilopment of core system, development of system requirements, more accurate time and cost estimates. Construction phase- iterative development of remaining system. Transition phase-testing and deployment of the system.",
+            "human_scores": [
+                3.0,
+                2.0,
+                4.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_5",
+            "student_answer": "1.2 Refining the solution, Production and Maintenance are all influenced by the Testing stage.",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_6",
+            "student_answer": "1.2 Elaboration, Construction, and Transition are all affected by testing",
+            "human_scores": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 1.75
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_7",
+            "student_answer": "1.2 Refining, Production, Maintenance",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_8",
+            "student_answer": "1.2 Refining the solution",
+            "human_scores": [
+                4.0,
+                3.0,
+                5.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.75
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_9",
+            "student_answer": "1.2 -Verification -Debugging",
+            "human_scores": [
+                2.0,
+                3.0,
+                1.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_10",
+            "student_answer": "1.2 Refining and Coding",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_11",
+            "student_answer": "1.2 The second half of the Elaboration phase, Construction phase, and the Transition phase.",
+            "human_scores": [
+                2.5,
+                2.0,
+                3.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_12",
+            "student_answer": "1.2 The refining step, the production step, and the maintenance stage.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.75
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_13",
+            "student_answer": "1.2 Elaboration, Construction, Transition",
+            "human_scores": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "human_avg_score": 2.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_14",
+            "student_answer": "1.2 Refining.",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 1.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_15",
+            "student_answer": "1.2 The testing stage has a direct influence on the final version of a program, being as it is the debugging and finalization of a software revision.",
+            "human_scores": [
+                1.5,
+                2.0,
+                1.0
+            ],
+            "human_avg_score": 1.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_16",
+            "student_answer": "1.2 Directly: Refining, coding. Because Refining is right before the Testing Phase and Coding is right after the Testing Phase. Indirectly: Production, Maintenance. Because Refining occurs before these last two stages in the Software Life Cycle.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_17",
+            "student_answer": "1.2 Testing, refining, production, and maintenance.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_18",
+            "student_answer": "1.2 Depending on how the work is done, Testing is spread throughout the process as to prevent errors from showing up later on due to lack of foresight.",
+            "human_scores": [
+                1.5,
+                2.0,
+                1.0
+            ],
+            "human_avg_score": 1.5,
+            "procot_score": 0.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_19",
+            "student_answer": "1.2 Elaboration, construction, and transition.",
+            "human_scores": [
+                2.5,
+                2.0,
+                3.0
+            ],
+            "human_avg_score": 2.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_20",
+            "student_answer": "1.2 All stages are influenced except setting the program requirements. If a test fails, it can change the whole design, implementation, etc of a program as well as the final outcome.",
+            "human_scores": [
+                1.5,
+                2.0,
+                1.0
+            ],
+            "human_avg_score": 1.5,
+            "procot_score": 2.0
+        },
+        {
+            "question": "1.2 What stages in the software life cycle are influenced by the testing stage?",
+            "student_id": "student_21",
+            "student_answer": "1.2 Refining, production, and maintenance",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 2.0
+        }
+    ]
+}

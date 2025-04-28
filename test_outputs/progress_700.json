@@ -1,0 +1,316 @@
+{
+    "evaluations_done": 700,
+    "MAE": 1.48445,
+    "MSE": 3.270297821428571,
+    "Pearson_Correlation": 0.702384678932179,
+    "Overall_Error_Percentage": 86.42857142857143,
+    "Error_Distribution": {
+        "0-1 marks": 29.428571428571427,
+        "1-2 marks": 34.85714285714286,
+        "2-3 marks": 24.285714285714285,
+        "3-4 marks": 9.714285714285714,
+        "4+ marks": 1.7142857142857144
+    },
+    "recent_25_results": [
+        {
+            "question": "3.4 What is the main advantage associated with function arguments that are passed by reference?",
+            "student_id": "student_26",
+            "student_answer": "3.4 It gives access and modify the caller's argument data directly. It eliminate the pass by value overhead of copying large amounts ofdata",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.5
+        },
+        {
+            "question": "3.4 What is the main advantage associated with function arguments that are passed by reference?",
+            "student_id": "student_27",
+            "student_answer": "3.4 it takes less memory, thus it would make the program faster",
+            "human_scores": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "human_avg_score": 4.0,
+            "procot_score": 0.75
+        },
+        {
+            "question": "3.4 What is the main advantage associated with function arguments that are passed by reference?",
+            "student_id": "student_28",
+            "student_answer": "3.4 You are able to modify the variable that is referenced directly.",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.5
+        },
+        {
+            "question": "3.4 What is the main advantage associated with function arguments that are passed by reference?",
+            "student_id": "student_29",
+            "student_answer": "3.4 if you pass by reference, you can modify the value as opposed to passing by value where you cannot change the value",
+            "human_scores": [
+                3.5,
+                3.0,
+                4.0
+            ],
+            "human_avg_score": 3.5,
+            "procot_score": 1.0
+        },
+        {
+            "question": "3.4 What is the main advantage associated with function arguments that are passed by reference?",
+            "student_id": "student_30",
+            "student_answer": "3.4 only the memory address is sent to the function, so no copy of the object sent needs to be made. It makes the function run faster, and saves memory.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "3.4 What is the main advantage associated with function arguments that are passed by reference?",
+            "student_id": "student_31",
+            "student_answer": "3.4 Actual arguments are associated with dummy arguments when a function or subroutine is referenced. In a procedure reference, the actual argument list identifies the correspondence between the actual arguments provided in the list and the dummy arguments of the subprogram",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_1",
+            "student_answer": "3.5 The compiler selects the proper functions to execute based on number, types and order of arguments in the function call.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_2",
+            "student_answer": "3.5 They differentiated by the compiler by the conditions/inputs used for one of the overloaded functions.",
+            "human_scores": [
+                3.0,
+                4.0,
+                2.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 2.0
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_3",
+            "student_answer": "3.5 The compiler distinguishes overloaded functions by their signatures. It encodes each function identifier with the number and types of its parameters to generate type-safe linkage, which ensures the proper overloaded function is called.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_4",
+            "student_answer": "3.5 Overloaded functions are distinguished by their signatures, Name mangling or name decoration, and type-safe linkage ensures that proper overloaded functions is called and types of the arguments conform to tpes to the parameters.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.0
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_5",
+            "student_answer": "3.5 The compiler selects proper function to execute based on number, types and order of arguments in the function call.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.5
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_6",
+            "student_answer": "3.5 By the type they are initilized with (int, char, etc.)",
+            "human_scores": [
+                3.0,
+                2.0,
+                4.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 0.5
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_7",
+            "student_answer": "3.5 It selects the proper function to execute based on number, types and order of arguments in the function call.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.25
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_8",
+            "student_answer": "3.5 overloaded functions must have the same return type but different input parameters",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_9",
+            "student_answer": "3.5 It examines the names, types, and order of arguments on each function.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.5
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_10",
+            "student_answer": "3.5 unique function signatures",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.75
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_11",
+            "student_answer": "3.5 Is based on number, types, and order of arguments in the function call.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 3.75
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_12",
+            "student_answer": "3.5 Compiler selects proper function to execute based on number, types and order of arguments in the function call.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 5.0
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_13",
+            "student_answer": "3.5 not answered",
+            "human_scores": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "human_avg_score": 0.0,
+            "procot_score": 0.0
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_14",
+            "student_answer": "3.5 they have to have same return type, but different input parameters",
+            "human_scores": [
+                3.0,
+                1.0,
+                5.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_15",
+            "student_answer": "3.5 Overloaded functions are differentiated by their parameters.",
+            "human_scores": [
+                4.5,
+                4.0,
+                5.0
+            ],
+            "human_avg_score": 4.5,
+            "procot_score": 3.0
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_16",
+            "student_answer": "3.5 The compiler selects the right function to execute from the number, types and order of arguments in the function call.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 4.25
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_17",
+            "student_answer": "3.5 it creates a set of candidate functions then a set of viable functions",
+            "human_scores": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "human_avg_score": 3.0,
+            "procot_score": 1.25
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_18",
+            "student_answer": "3.5 their function signature.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        },
+        {
+            "question": "3.5 How are overloaded functions differentiated by the compiler?",
+            "student_id": "student_19",
+            "student_answer": "3.5 The number and type of its parameters.",
+            "human_scores": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "human_avg_score": 5.0,
+            "procot_score": 2.5
+        }
+    ]
+}

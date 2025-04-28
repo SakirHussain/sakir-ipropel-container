@@ -1,0 +1,545 @@
+{
+  "1.1 What is the role of a prototype program in problem solving?": [
+    "Answers the question directly by stating that a prototype program simulates the behavior of portions of the desired software product. (1 Mark)",
+    "Provides an accurate and concise definition of what a prototype program is in the context of problem solving. (1 Mark)",
+    "Demonstrates understanding of the role of prototyping in software development by explaining its purpose in problem-solving processes. (1 Mark)",
+    "Explains the role of a prototype program without using overly technical or complex language, making it easily understandable to readers. (1 Mark)"
+  ],
+  "1.2 What stages in the software life cycle are influenced by the testing stage?": [
+    "The answer correctly identifies the coding stage as being influenced by testing (1 Mark)",
+    "The answer correctly identifies the solution refinement stage as being influenced by testing (1 Mark)",
+    "The answer clearly states that both coding and solution refinement stages are influenced by the testing stage (1 Mark)",
+    "The answer does not mention any other stage of the software life cycle as being influenced by testing (1 Mark)"
+  ],
+  "1.3 What are the main advantages associated with object-oriented programming?": [
+    "The answer clearly identifies 'abstraction' as a main advantage of object-oriented programming. (1 Mark)",
+    "The response accurately mentions 'reusability' as one of the key benefits in object-oriented programming. (1 Mark)",
+    "The answer demonstrates an understanding that both 'abstraction' and 'reusability' are fundamental advantages in object-oriented programming. (1 Mark)",
+    "The student's response includes a brief explanation or example to support their mention of abstraction and/or reusability as advantages. (1 Mark)",
+    "The answer is concise, accurate, and free from grammatical errors. (1 Mark)"
+  ],
+  "1.4 Where do C++ programs begin to execute?": [
+    "The answer correctly identifies the main function as the starting point of a C++ program execution. (1 Mark)",
+    "The response is concise and directly addresses the question without unnecessary details or deviations. (1 Mark)",
+    "The answer uses appropriate terminology and clearly demonstrates understanding of the concept. (1 Mark)"
+  ],
+  "1.5 What is a variable?": [
+    "Answer correctly defines a variable as a location in memory that can store a value. (1 Mark)",
+    "Answer explains the concept of a variable using appropriate and concise language. (1 Mark)",
+    "Answer avoids unnecessary jargon or incorrect terminology. (1 Mark)",
+    "Answer demonstrates an understanding of the fundamental role of variables in programming. (1 Mark)"
+  ],
+  "1.6 Where are variables declared in a C++ program?": [
+    "The response correctly identifies that variables can be declared anywhere in a C++ program (1 Mark)",
+    "The response mentions local variables as being declared inside functions (1 Mark)",
+    "The response mentions global variables as being declared outside the functions (1 Mark)",
+    "The response provides an accurate and concise explanation of variable declaration in C++ programs (1 Mark)"
+  ],
+  "1.7 What is the main difference between a while and a do...while statement?": [
+    "The response correctly identifies that a do...while statement will execute at least once. (1 Mark)",
+    "The answer explains the main difference between while and do...while statements, specifically focusing on the execution guarantee of the block inside the do...while loop. (1 Mark)",
+    "The student's explanation is concise and to the point without unnecessary details or confusion. (1 Mark)"
+  ],
+  "2.1 What is typically included in a class definition?": [
+    "The response correctly identifies data members (attributes) as a part of a class definition. (1 Mark)",
+    "The answer also includes member functions in the description of a class definition. (1 Mark)",
+    "The response clearly distinguishes between data members and member functions, demonstrating understanding of their roles in a class definition. (1 Mark)"
+  ],
+  "2.2 What is the difference between a data member and a local variable inside a member function?": [
+    "The response correctly identifies that data members can be accessed from any member functions inside the class definition. (1 Mark)",
+    "The response correctly identifies that local variables can only be accessed inside the member function that defines them. (1 Mark)",
+    "The response provides a clear and concise explanation of the differences between data members and local variables in member functions. (1 Mark)",
+    "The response avoids any confusion or incorrect information about the scope and accessibility of data members and local variables. (1 Mark)"
+  ],
+  "2.3 What is the difference between a constructor and a function?": [
+    "The response correctly identifies that a constructor is called whenever an object is created and functions need to be called explicitly. (1 Mark)",
+    "The response accurately explains the difference between being invoked automatically for constructors and requiring explicit calling for functions. (1 Mark)",
+    "The response acknowledges that constructors do not have return types, while functions have a specified return type. (1 Mark)",
+    "The response provides a clear and concise explanation of the differences between constructors and functions. (1 Mark)"
+  ],
+  "2.4 When does C++ create a default constructor?": [
+    "The answer correctly states that the compiler provides a default constructor if no user-defined constructor is provided. (1 Mark)",
+    "The answer explains that when a constructor is defined for a class, the compiler does not create a default constructor. (1 Mark)",
+    "The answer demonstrates an understanding of the relationship between user-defined constructors and the creation of a default constructor by the compiler. (1 Mark)"
+  ],
+  "2.5 How many constructors can be created for a class?": [
+    "Answer correctly states that the number of constructors for a class is unlimited. (1 Mark)",
+    "Demonstrates understanding of the concept that constructors in a class can be overloaded, allowing multiple constructor functions to exist. (1 Mark)",
+    "Provides an example or explanation to support the answer, if appropriate. (0.5 Mark - Optional)",
+    "Answer is concise and clearly communicates the main idea without unnecessary details or confusion. (0.5 Mark)"
+  ],
+  "2.6 What is the difference between a function prototype and a function definition?": [
+    "The response correctly identifies that a function prototype includes the function signature (name, return type, and parameters' types) (1 Mark)",
+    "The response accurately describes that the function definition includes the actual body of the function (1 Mark)",
+    "The response provides an example or clear explanation to differentiate between the two (optional, +0.5 Mark)",
+    "The response is concise and free from grammatical errors (1 Mark)"
+  ],
+  "2.7 What is the role of a header-file?": [
+    "Answers the question correctly: The answer should accurately explain that a header-file stores a class interface, including data members and member function prototypes. (1 Mark)",
+    "Provides an example or real-world context: The answer may include an example or a brief explanation of how header-files are used in a real-world programming scenario. (1 Mark)",
+    "Demonstrates understanding of the concept: The answer should show evidence that the student understands the role and purpose of a header-file beyond just reciting its definition. (1 Mark)"
+  ],
+  "3.1 What does a function signature include?": [
+    "Answer correctly identifies the name of the function as a component of the function signature. (1 Mark)",
+    "Answer correctly identifies the types of parameters as a component of the function signature. (1 Mark)",
+    "Answer provides an example or demonstration to support the explanation of function signature components. (1 Mark)",
+    "Answer avoids superfluous information and focuses solely on the name and parameter types in the function signature. (1 Mark)"
+  ],
+  "3.2 What is the scope of global variables?": [
+    "Answer correctly identifies that global variables have file scope. (1 Mark)",
+    "Answer explains how global variables can be accessed across functions within the same file. (1 Mark)",
+    "Answer provides an example to illustrate the concept of global variable scope. (1 Mark)",
+    "Answer avoids confusion by not mentioning other scopes such as block or function scope. (1 Mark)"
+  ],
+  "3.3 How does the compiler handle inline functions?": [
+    "The answer correctly identifies that the compiler makes a copy of the inline function code in every place where a function call is made. (1 Mark)",
+    "The explanation demonstrates an understanding of how inline functions are treated during the compilation process. (1 Mark)",
+    "The response provides a concise and accurate description of what happens to inline functions during compilation without any errors or misconceptions. (1 Mark)",
+    "The answer includes relevant keywords such as 'compiler', 'inline function', and 'function call'. (1 Mark)",
+    "The explanation is clear, well-structured, and easy to understand. (1 Mark)"
+  ],
+  "3.4 What is the main advantage associated with function arguments that are passed by reference?": [
+    "Answers the question directly, addressing the main advantage of function arguments passed by reference (1 Mark)",
+    "Provides a clear and concise explanation of the advantage (1 Mark)",
+    "Explains that avoiding copies of large data structures is the benefit when using references (1 Mark)",
+    "Demonstrates understanding of how passing by reference differs from passing by value (1 Mark, if applicable)",
+    "Uses appropriate terminology and technical language related to programming and function arguments (1 Mark)"
+  ],
+  "3.5 How are overloaded functions differentiated by the compiler?": [
+    "The answer accurately describes that overloaded functions are differentiated by the compiler based on their function signature (1 Mark)",
+    "The answer explains that when an overloaded function is called, the compiler finds the function whose signature is closest to the given function call (1 Mark)",
+    "The answer correctly states that the compiler uses argument list and return type in determining the best match for a given function call (1 Mark)",
+    "The answer provides a simple and concise explanation of how overloaded functions are differentiated by the compiler (1 Mark)",
+    "The answer avoids unnecessary details or incorrect information about overloading resolution process (1 Mark)"
+  ],
+  "3.6 When defining a recursive function, what are possible causes for infinite recursion?": [
+    "The answer correctly identifies that incorrectly defined recursion steps can cause infinite recursion. (1 Mark)",
+    "The answer correctly mentions that the absence of a base case in a recursive function can lead to infinite recursion. (1 Mark)",
+    "The answer provides an example or explanation of how incorrectly defining the recursion step can result in infinite recursion. (1 Mark)",
+    "The answer explains how the absence of a base case leads to infinite recursion with an appropriate example or illustration. (1 Mark)"
+  ],
+  "3.7 What are the similarities between iteration and recursion?": [
+    "Answer correctly identifies that both iteration and recursion involve repetition. (1 Mark)",
+    "Answer correctly states that both iteration and recursion have termination tests. (1 Mark)",
+    "Answer correctly mentions that both iteration and recursion can occur infinitely, given appropriate conditions. (1 Mark)"
+  ],
+  "4.1 What are the two different ways of specifying the length of an array?": [
+    "The response correctly identifies two different ways of specifying the length of an array: in the array declaration or by using an initializer list. (1 Mark)",
+    "The answer provides examples to illustrate each method for specifying the length of an array. (1 Mark)",
+    "The response explains both methods clearly and concisely without any confusion or ambiguity. (1 Mark)",
+    "The student's explanation is accurate, demonstrating a good understanding of the two ways to specify the length of an array. (1 Mark)"
+  ],
+  "4.2 What is the main difference between strings declared using the type string versus strings declared using an array of characters?": [
+    "The answer correctly identifies the presence of a null element in arrays of characters as opposed to strings declared using the type string. (1 Mark)",
+    "The answer provides an explanation that clearly distinguishes between strings and arrays of characters, focusing on the additional null element in arrays. (1 Mark)",
+    "The answer demonstrates understanding of the concept by providing a concise and accurate description of the difference between strings and arrays of characters. (1 Mark)",
+    "The answer avoids any ambiguity or confusion, providing a clear and unambiguous explanation of the main difference. (1 Mark)"
+  ],
+  "4.3 How are arrays passed to functions?": [
+    "The answer correctly identifies that arrays are passed by reference. (1 Mark)",
+    "The response explains the concept of passing arrays by reference in a clear and concise manner. (1 Mark)",
+    "The student provides an example or diagram to illustrate the passing of arrays by reference. (1 Mark)",
+    "The answer demonstrates understanding of the difference between pass-by-value and pass-by-reference, specifically in relation to arrays. (1 Mark)",
+    "The response avoids common misconceptions about how arrays are passed to functions, such as they are passed by value or copied. (1 Mark)",
+    "The student provides a brief explanation of the implications of passing arrays by reference, if any. (1 Mark)"
+  ],
+  "4.4 What is the difference between an array declared as static, and one that is not?": [
+    "The response accurately describes that static arrays live throughout the life of the program and are initialized only once when the function that declares them is first called. (1 Mark)",
+    "The answer explains that static arrays are not reinitialized each time a function is called, but retain their values from the previous execution. (1 Mark)",
+    "The response correctly mentions that static arrays are local variables with file scope in C and block scope in C++. (1 Mark)",
+    "The explanation provides an example or uses appropriate programming language syntax to illustrate the difference between a static array and one that is not declared as static. (1 Mark)",
+    "The answer demonstrates an understanding of the impact of using static arrays on memory usage and program behavior. (1 Mark)"
+  ],
+  "4.5 How many dimensions need to be specified when passing a multi-dimensional array as an argument to a function?": [
+    "The answer correctly identifies that the number of specified dimensions should be all but the first one. (1 Mark)",
+    "The response demonstrates understanding that the first dimension is usually assumed or predefined, and only subsequent dimensions need explicit mention. (1 Mark)",
+    "The answer accurately explains that the number of explicitly mentioned dimensions in a multi-dimensional array corresponds to its rank. (1 Mark)",
+    "The response provides an example or justification for why only subsequent dimensions are specified when passing a multi-dimensional array as an argument. (1 Mark)"
+  ],
+  "4.6 Using an index outside the bounds of the array generates an error. Is this a compilation error or a run-time error?": [
+    "Answer accurately identifies the error as a run-time error (1 Mark)",
+    "Explanation demonstrates understanding of the difference between compilation and run-time errors (1 Mark)",
+    "Response is concise, clear, and directly answers the question without extraneous information (1 Mark)"
+  ],
+  "4.7 How are bi-dimensional arrays stored in memory, by rows or by columns?": [
+    "The answer correctly identifies that bi-dimensional arrays are stored in memory by rows. (1 Mark)",
+    "The response provides a concise and accurate explanation of the storage method for bi-dimensional arrays, i.e., row-major order. (1 Mark)",
+    "The student demonstrates understanding of how memory allocation works for multi-dimensional data structures, specifically bi-dimensional arrays. (1 Mark)",
+    "The answer is free from errors and misconceptions regarding the storage method of bi-dimensional arrays in memory. (1 Mark)"
+  ],
+  "5.1 In one sentence, what is the main idea implemented by insertion sort?": [
+    "Answer clearly explains the main idea of insertion sort (1 Mark)",
+    "Response accurately describes that insertion sort works by taking one element at a time and placing it in the correct sorted position among previously sorted elements on its left (1 Mark)",
+    "The answer demonstrates understanding that insertion sort processes the array from left to right (1 Mark)",
+    "Response correctly indicates that each element is inserted into the sorted sequence, not just placed anywhere (1 Mark)",
+    "Answer shows comprehension of the sorting algorithm's methodology by mentioning 'sorted elements on its left' and 'right position' (1 Mark)"
+  ],
+  "5.2 In one sentence, what is the main idea implemented by selection sort?": [
+    "The answer correctly identifies the main action of selection sort as selecting one element at a time from left to right (1 Mark)",
+    "The answer explains that each selected element is compared with the remaining elements and swapped if it is smaller (1 Mark)",
+    "The answer accurately describes that the minimum element is identified among the remaining elements (1 Mark)",
+    "The answer correctly states that this process continues until all array elements are sorted in ascending order (1 Mark)",
+    "The answer succinctly and clearly explains the main idea implemented by selection sort in one sentence (1 Mark)"
+  ],
+  "5.3 What is the number of operations for insertion sort under a best-case scenario, and what is the best-case scenario?": [
+    "The answer correctly identifies the number of operations in a best-case scenario for Insertion Sort as N, where N is the length of the array. (1 Mark)",
+    "The answer explains that the best-case scenario occurs when the input array is already sorted. (1 Mark)",
+    "The response provides an accurate and concise description of the operations involved in a best-case Insertion Sort algorithm. (1 Mark)"
+  ],
+  "5.4 What is the base case for a recursive implementation of merge sort?": [
+    "The answer correctly identifies the base case for a recursive implementation of merge sort as when the size of the array is 1 or 2 (Base Case Identification (1 Mark))",
+    "The answer provides an explanation that accurately describes why 1 or 2 elements in the array are considered the base case for merge sort (Explanation Clarity (1 Mark))",
+    "The answer demonstrates understanding of the concept of a recursive base case by correctly stating that the size of the array is either 1 or 2 (Conceptual Understanding (1 Mark))"
+  ],
+  "6.1 What is a pointer?": [
+    "Answer correctly identifies a pointer as a variable that contains the address in memory of another variable. (1 Mark)",
+    "Answer is concise and to the point, avoiding unnecessary details. (1 Mark)",
+    "Answer uses appropriate terminology, specifically 'address in memory'. (1 Mark)",
+    "Answer does not confuse pointers with other data types or concepts. (1 Mark)",
+    "Answer provides a brief explanation rather than a definition alone. (1 Mark)"
+  ],
+  "6.2 What does the address (&) operator return?": [
+    "Answer correctly identifies the address (&) operator returns the memory address of its operand. (1 Mark)",
+    "Answer provides a clear and concise explanation of what the address (&) operator does. (1 Mark)",
+    "Answer demonstrates an understanding of how the address (&) operator interacts with operands in C/C++ programming language. (1 Mark)",
+    "Answer is free from grammatical errors and is easy to understand. (1 Mark)"
+  ],
+  "6.3 What does the star (*) operator return?": [
+    "Answer correctly identifies the star (*) operator as an alias or synonym for the name of the object its operand points to in memory. (1 Mark)",
+    "Answer correctly describes the star (*) operator as a dereferencing operator. (1 Mark)",
+    "Answer provides an accurate and concise definition of the star (*) operator without any errors or unnecessary details. (1 Mark)"
+  ],
+  "6.4 How can an array be addressed in pointer/offset notation?": [
+    "The answer correctly identifies that a pointer points to the first element of an array (1 Mark)",
+    "The answer explains that the pointer is incremented with the index of the array element (1 Mark)",
+    "The answer provides an accurate and concise explanation, avoiding unnecessary details or errors (1 Mark)",
+    "The answer demonstrates a clear understanding of how pointer/offset notation works in arrays (1 Mark)",
+    "The answer uses appropriate terminology and does not confuse pointers with other data structures (1 Mark)"
+  ],
+  "6.5 What does the sizeof operator return?": [
+    "Answer correctly identifies the data type of the operand (1 Mark)",
+    "Answer accurately states that the sizeof operator returns the size in bytes of its operand (1 Mark)",
+    "Answer provides a concise and clear explanation (1 Mark)",
+    "Answer does not include unnecessary or incorrect information (1 Mark)"
+  ],
+  "6.6 What are the different ways to pass a pointer to a function?": [
+    "The answer correctly identifies the four ways to pass a pointer to a function: nonconstant pointer to constant data, nonconstant pointer to nonconstant data, constant pointer to constant data, constant pointer to nonconstant data (1 Mark)",
+    "The answer lists all four methods in the correct order: nonconstant pointer to constant data, nonconstant pointer to nonconstant data, constant pointer to constant data, constant pointer to nonconstant data (1 Mark)",
+    "The answer correctly mentions each method only once (1 Mark)",
+    "The answer uses proper terminology and does not include any errors or misconceptions regarding pointers or function arguments (1 Mark)"
+  ],
+  "6.7 What is a function pointer?": [
+    "The answer correctly identifies a function pointer as the address of the location in memory where the function code resides. (1 Mark)",
+    "The answer provides an accurate and concise definition of a function pointer without any errors or omissions. (1 Mark)",
+    "The answer uses appropriate language that is consistent with programming concepts, specifically referring to 'memory' and 'function code'. (1 Mark)",
+    "The answer does not include unnecessary details or unrelated information, focusing solely on the definition of a function pointer. (1 Mark)"
+  ],
+  "7.1 What is a linked list?": [
+    "Answer accurately describes a linked list as a collection of elements that can be allocated dynamically. (1 Mark)",
+    "Answer correctly identifies the key characteristic of linked lists: dynamic allocation. (1 Mark)",
+    "Response is concise and directly addresses the question without unnecessary information. (1 Mark)"
+  ],
+  "7.2 What is the main advantage of linked lists over arrays?": [
+    "The answer correctly identifies the main advantage of linked lists over arrays, which is that they can be of variable length. (1 Mark)",
+    "The response accurately describes the benefit of linked lists in terms of their dynamic size without any mention of disadvantages or unnecessary details. (1 Mark)",
+    "The explanation is clear and concise, demonstrating a good understanding of the main advantage of linked lists over arrays. (1 Mark)",
+    "The answer avoids common mistakes such as confusion with arrays' ability to dynamically resize using dynamic memory allocation. (1 Mark)",
+    "The response does not provide any irrelevant information or tangents that distract from the main point about the variable length of linked lists. (1 Mark)"
+  ],
+  "7.3 What is the main advantage of arrays over linked lists?": [
+    "The answer correctly identifies that arrays allow for direct access to elements, while linked lists require iterative traversal. (1 Mark)",
+    "The answer provides a clear and concise explanation of the main advantage of arrays over linked lists. (1 Mark)",
+    "The answer accurately describes the difference in element access between arrays and linked lists without ambiguity or confusion. (1 Mark)",
+    "The answer demonstrates an understanding of the fundamental concept of array versus linked list data structures. (1 Mark)"
+  ],
+  "7.4 How are linked lists passed as arguments to a function?": [
+    "The answer correctly identifies that linked lists are passed by reference (1 Mark)",
+    "The response explains that passing a linked list by reference allows the function to modify the original data structure in the calling function (1 Mark)",
+    "The answer demonstrates an understanding of the concept of call-by-reference, specifically as it applies to linked lists (1 Mark)",
+    "The response is concise and directly addresses the question without unnecessary detail or confusion (1 Mark)",
+    "The answer does not contain errors or misconceptions regarding the passing of arguments to functions in general or linked lists specifically (1 Mark)"
+  ],
+  "7.5 What is the difference between a circular linked list and a basic linked list?": [
+    "The answer correctly identifies that a circular linked list has the last element pointing to the head of the list. (1 Mark)",
+    "The answer explains that the key difference between a circular linked list and a basic linked list lies in the way the last node is linked, with the last node in a circular linked list pointing back to the first node. (1 Mark)",
+    "The answer provides an example or diagram to illustrate the concept of a circular linked list. (1 Mark)",
+    "The answer avoids confusion by clearly distinguishing between a circular linked list and other data structures, such as arrays or stacks. (1 Mark)",
+    "The answer is concise and free from grammatical errors, making it easy to understand the main point. (1 Mark)"
+  ],
+  "7.6 What is the main advantage of a doubly-linked list over a basic linked list?": [
+    "The answer correctly identifies that doubly-linked lists allow constant time deletion and insertion operations (1 Mark)",
+    "The answer explains that these operations can be performed before a given location or at the end of the list (1 Mark)",
+    "The answer does not mention any incorrect advantages or disadvantages of doubly-linked lists (1 Mark)",
+    "The answer is concise and directly addresses the question (1 Mark)"
+  ],
+  "7.7 What is the main disadvantage of a doubly-linked list over a basic linked list?": [
+    "Answer clearly identifies the main disadvantage of a doubly-linked list over a basic linked list, which is the extra space required to store back pointers. (1 Mark)",
+    "Response explains the concept of back pointers in the context of doubly-linked lists and their purpose. (1 Mark)",
+    "Answer demonstrates understanding that the extra space requirement for back pointers is a disadvantage due to increased memory usage. (1 Mark)"
+  ],
+  "8.1 What is a stack?": [
+    "The answer correctly identifies a stack as a data structure (1 Mark)",
+    "The answer explains that a stack has the property of last-in-first-out (LIFO) (1 Mark)",
+    "The response provides an example or analogy to illustrate the LIFO property (Optional, 0.5 Mark if included)"
+  ],
+  "8.2 What are the two main functions defined by a stack?": [
+    "Answer correctly identifies the two main functions of a stack: push and pop (1 Mark)",
+    "Response demonstrates understanding that 'push' is used to add an element onto the top of the stack, and 'pop' is used to remove the topmost element from the stack (1 Mark)",
+    "Answer provides examples or scenarios to illustrate the use of 'push' and 'pop' functions in a stack (1 Mark)",
+    "Response explains how the 'push' operation increases the size of the stack, while the 'pop' operation decreases it (1 Mark)",
+    "Answer discusses the importance of these two functions in managing data structures effectively (1 Mark)"
+  ],
+  "8.3 How can you implement a stack with an array?": [
+    "The answer correctly identifies that the top of the stack should be toward the end of the array for efficient push and pop operations. (1 Mark)",
+    "The answer explains why pushing and popping elements from the right side of the array is beneficial, such as avoiding shifting large portions of the array. (1 Mark)",
+    "The answer demonstrates an understanding of how to use an array to implement a stack by providing a simple example or pseudocode for push and pop operations. (1 Mark)",
+    "The answer provides a clear and concise explanation, without unnecessary details or errors that may affect the implementation. (1 Mark)"
+  ],
+  "8.4 How can you implement a stack with a list?": [
+    "The answer correctly identifies that the top of the stack should point to the head of the list (1 Mark)",
+    "The answer demonstrates an understanding of how push operation adds elements at the beginning of the list (1 Mark)",
+    "The answer explains how pop operation removes elements from the beginning of the list (1 Mark)",
+    "The answer provides a clear and concise explanation of the implementation (1 Mark)",
+    "The answer demonstrates an understanding of the fundamental concept of stacks and lists (1 Mark)"
+  ],
+  "8.5 Which implementation (array-based vs. list-based) is preferred, and why?": [
+    "The answer clearly identifies the preferred implementation as link-based (1 Mark)",
+    "The answer explains that link-based structures are dynamic, meaning they have no size constraints (1 Mark)",
+    "The answer provides a concise and accurate reason for choosing link-based over array-based (1 Mark)",
+    "The answer avoids unnecessary technical jargon and is easy to understand (1 Mark)",
+    "The answer does not provide any incorrect or misleading information about the two implementations (1 Mark)"
+  ],
+  "8.6 How are infix expressions evaluated by computers?": [
+    "The response correctly identifies the conversion of infix expressions to postfix form (1 Mark)",
+    "The answer explains that evaluation follows after converting the expression to postfix notation (1 Mark)",
+    "The explanation demonstrates an understanding of the process being sequential: conversion then evaluation (1 Mark)",
+    "The response accurately describes the general method used by computers for evaluating infix expressions (1 Mark)",
+    "The answer is concise and clearly articulates the main steps involved in the evaluation process (1 Mark)"
+  ],
+  "8.7 What operations would you need to perform to find a given element on a stack?": [
+    "The answer correctly identifies the process of popping all elements from the stack (1 Mark)",
+    "The answer describes storing the popped elements on another stack (1 Mark)",
+    "The answer explains the need to check each element for the given one (1 Mark)",
+    "The answer specifies pushing back all the elements on the original stack after finding the given element (1 Mark)",
+    "The answer demonstrates a clear understanding of LIFO principle in stacks (1 Mark)"
+  ],
+  "9.1 What is a queue?": [
+    "The answer correctly identifies a queue as a data structure (1 Mark)",
+    "The answer explains that queues store elements (1 Mark)",
+    "The answer mentions the property of a queue where the last item added is the last to be removed (or first-in-first-out) (1 Mark)",
+    "The answer provides a clear and concise definition of a queue (1 Mark)",
+    "The answer does not contain any errors or misconceptions about queues (1 Mark)"
+  ],
+  "9.2 What are the two main functions defined by a queue?": [
+    "The answer correctly identifies the two main functions of a queue: enqueue and dequeue (1 Mark)",
+    "The response is concise, using only the terms 'enqueue' and 'dequeue', without any additional explanations or examples (1 Mark)",
+    "The answer avoids incorrect or unnecessary information about queues (1 Mark)",
+    "The response is written in a clear and organized manner, making it easy to understand the identified functions of a queue (1 Mark)",
+    "The answer demonstrates an understanding of the fundamental operations of a queue, using appropriate terminology (1 Mark)"
+  ],
+  "9.3 How can you implement a queue with an array?": [
+    "The answer correctly identifies the use of a circular array for implementing a queue (1 Mark)",
+    "The answer explains that the rear of the queue is located at the end of the array and the front at the beginning (1 Mark)",
+    "The answer demonstrates an understanding of how to handle wrapping around of the rear pointer in a circular array (1 Mark)",
+    "The answer provides a clear and concise explanation of the implementation method (1 Mark)",
+    "The answer avoids unnecessary complexity or incorrect information (1 Mark)"
+  ],
+  "9.4 How can you implement a queue with a list?": [
+    "The answer correctly identifies the rear of the queue as pointing to the tail of the linked list, demonstrating understanding of the enqueue operation (1 Mark)",
+    "The answer correctly identifies the front of the queue as pointing to the head of the linked list, demonstrating understanding of the dequeue operation (1 Mark)",
+    "The answer provides a clear and concise explanation of how to implement a queue using a list (1 Mark)",
+    "The answer does not omit any essential steps in implementing a queue with a list (1 Mark)",
+    "The answer demonstrates an understanding of the fundamental operations of a queue, including enqueue and dequeue (1 Mark)",
+    "The answer is free from grammatical errors and is easy to understand (1 Mark)"
+  ],
+  "9.5 Which implementation (array-based vs. list-based) is preferred for a queue, and why?": [
+    "The answer correctly identifies the preferred implementation as link-based (1 Mark)",
+    "The answer explains that link-based queues are dynamic, meaning they have no size constraints (1 Mark)",
+    "The answer provides a clear and concise reason for choosing link-based over array-based (1 Mark)",
+    "The answer does not confuse the terms 'list' with 'array' (1 Mark)",
+    "The answer is free of grammatical errors and is well-structured (1 Mark)"
+  ],
+  "9.6 What is the stack operation corresponding to the enqueue operation in queues?": [
+    "The response correctly identifies the stack operation corresponding to the enqueue operation in queues, i.e., 'push' (1 Mark)",
+    "The answer uses appropriate terminology and accurately describes the relationship between enqueue and push operations (1 Mark)",
+    "The student demonstrates understanding of data structures by providing a correct response (1 Mark)",
+    "The answer is concise and directly addresses the question without unnecessary details (1 Mark)"
+  ],
+  "9.7 What data structure is more appropriate for scheduling printing jobs at a printer, a stack or a queue?": [
+    "The response accurately identifies the queue data structure as more appropriate for scheduling printing jobs (1 Mark)",
+    "The answer demonstrates understanding that a queue follows the First-In-First-Out (FIFO) principle, which is suitable for managing tasks in a sequential order (1 Mark)",
+    "The response justifies the choice by explaining how the FIFO property ensures that printing jobs are processed in the order they were received (1 Mark)",
+    "The answer provides an example or scenario to illustrate the use of a queue in scheduling printing jobs (1 Mark)",
+    "The response clearly and concisely presents the information, demonstrating good communication skills (1 Mark)"
+  ],
+  "10.1 What is a tree?": [
+    "The answer correctly identifies a tree as a collection of nodes (Is the concept of a tree accurately defined? (1 Mark)",
+    "The answer mentions the special node called 'root' in a tree (Did the student include the root node in their definition? (1 Mark)",
+    "The answer explains that the rest of the nodes are partitioned into one or more disjoint sets (Does the student describe the structure of the tree correctly? (1 Mark)",
+    "Each set being a tree is accurately defined and understood by the student (Does the student understand that each partition can also be considered as a smaller tree within the larger tree structure? (1 Mark)",
+    "The answer demonstrates an understanding of the recursive nature of trees, where each smaller tree can have its own smaller trees (Does the student grasp the hierarchical and recursive nature of trees? (1 Mark)"
+  ],
+  "10.2 What is the height of a tree?": [
+    "Answer correctly identifies the height of a tree as the length of the longest path from the root to any leaf (1 Mark)",
+    "Answer provides a concise and accurate definition of tree height (1 Mark)",
+    "Answer demonstrates understanding that the height is measured from the root to the furthest leaf, not just the tallest branch (1 Mark)",
+    "Answer uses technical terms appropriately, without errors or omissions (1 Mark)",
+    "Answer is written clearly and logically, with proper grammar and punctuation (1 Mark)"
+  ],
+  "10.3 What is a leaf?": [
+    "Answer correctly identifies a leaf as a node that has no children. (1 Mark)",
+    "Answer is concise and directly addresses the question without unnecessary details. (1 Mark)",
+    "Answer uses appropriate terminology and accurately describes a leaf in botany. (1 Mark)",
+    "Answer demonstrates understanding of the concept of a leaf, specifically its structure and lack of children. (1 Mark)"
+  ],
+  "10.4 What is a binary tree?": [
+    "Answer correctly identifies a binary tree as a tree for which the maximum number of children per node is two. (1 Mark)",
+    "Answer explains that a binary tree is a data structure used in computer science to organize and store data hierarchically, with each node having at most two child nodes. (1 Mark)",
+    "Answer provides an example or visual representation of a binary tree to illustrate the concept. (1 Mark)",
+    "Answer avoids common misconceptions such as stating that a binary tree has only two children per node or that it is limited to storing numerical values. (1 Mark)",
+    "Answer demonstrates understanding of key binary tree concepts, such as root, leaf, and parent nodes. (1 Mark)"
+  ],
+  "10.5 What is a binary search tree?": [
+    "The answer correctly identifies a binary search tree as a type of tree (1 Mark)",
+    "The answer explains that a binary search tree has the property of left child being smaller than parent (1 Mark)",
+    "The answer correctly states that the parent is smaller than the right child in a binary search tree (1 Mark)",
+    "The answer provides a clear and concise definition of a binary search tree (1 Mark)",
+    "The answer does not contain any errors or misconceptions about binary search trees (1 Mark)"
+  ],
+  "10.6 What is the inorder traversal of a binary tree?": [
+    "Defines inorder traversal as a tree traversal method that visits the left subtree, then the root, and finally the right subtree. (1 Mark)",
+    "Demonstrates understanding of the recursive nature of inorder traversal by correctly describing the sequence: left subtree, root, right subtree. (1 Mark)",
+    "Provides a concise and accurate explanation without deviating from the main steps of inorder traversal. (1 Mark)",
+    "Uses appropriate terminology for tree data structures, such as 'left subtree', 'root', and 'right subtree'. (1 Mark)"
+  ],
+  "10.7 How many comparisons does it take to find an element in a binary search tree?": [
+    "Answer correctly identifies the height of the tree or logarithm of the number of elements as the number of comparisons required to find an element in a binary search tree. (1 Mark)",
+    "Answer demonstrates understanding that the number of comparisons is proportional to the logarithm of the number of elements, not the actual number of elements. (1 Mark)",
+    "Answer provides a clear and concise explanation for why the height or logarithm of the number of elements is the minimum number of comparisons needed, without providing unnecessary details or examples. (1 Mark)"
+  ],
+  "11.1 What are the elements typically included in a class definition?": [
+    "Answer identifies function members as an element of a class definition. (1 Mark)",
+    "Answer identifies data members as an element of a class definition. (1 Mark)",
+    "Answer provides examples or specific details to support the identified elements. (1 Mark)"
+  ],
+  "11.2 What are the access-specifiers that can be used in a C++ class definition?": [
+    "Answer correctly identifies the access specifiers that can be used in a C++ class definition: private and public. (1 Mark)",
+    "Answer does not include any incorrect or unnecessary access specifiers such as protected, friend, or others. (1 Mark)",
+    "Response is concise and directly addresses the question without unnecessary elaboration or tangents. (0.5 Mark)"
+  ],
+  "11.3 How are objects initialized when they are created?": [
+    "The answer correctly identifies the method used to initialize objects as 'constructors' (1 Mark)",
+    "The response explains that 'constructors' are methods that are called automatically when an object is created (1 Mark)",
+    "The explanation demonstrates understanding of the role of constructors in object initialization by describing their automatic execution upon object creation (1 Mark)",
+    "The answer mentions that constructors can have parameters, which allows for customization of objects during initialization (1 Mark, if applicable)",
+    "The response provides an example or two to illustrate the use of constructors in initializing objects (1 Mark, if applicable)"
+  ],
+  "11.4 What is a function signature?": [
+    "Answer correctly identifies the function signature as the name of the function and the list of parameters, including their types. (1 Mark)",
+    "Answer provides an example of a function signature using a valid function name and parameter types. (1 Mark)",
+    "Answer explains the concept of function signature in a clear and concise manner. (1 Mark)"
+  ],
+  "11.5 What is a recursive function?": [
+    "The answer correctly identifies a recursive function as one that calls itself. (1 Mark)",
+    "The response provides an example of a simple recursive function, such as the factorial or Fibonacci sequence. (1 Mark)",
+    "The explanation clearly demonstrates the concept of recursion by outlining the base case and the recursive case. (1 Mark)",
+    "The answer correctly mentions that a recursive function must eventually reach a base case to terminate the recursion. (1 Mark)",
+    "The response provides an understanding of how recursive functions can help solve problems that have a recursive structure, such as tree-like or nested structures. (1 Mark)"
+  ],
+  "11.6 What is the alternative way to solve a problem that could be solved through recursive functions?": [
+    "The answer correctly identifies iteration as an alternative to recursive functions for problem-solving (1 Mark)",
+    "The response demonstrates a clear understanding of the concept of iteration in problem-solving contexts (1 Mark)",
+    "The student provides a concise and accurate answer, using appropriate terminology (1 Mark)",
+    "The answer is written in complete sentences and is grammatically correct (1 Mark)",
+    "The response does not include extraneous information or unrelated ideas (1 Mark)"
+  ],
+  "11.7 What is the difference between an array that is declared as static and one that is not?": [
+    "The response correctly identifies that static arrays are initialized only once when the function is called. (1 Mark)",
+    "The answer explains the difference between a static array and an array that is not declared as static, focusing on the initialization aspect. (1 Mark)",
+    "The response provides an accurate description of the behavior of static arrays in terms of initialization. (1 Mark)",
+    "The explanation demonstrates understanding of the concept of static arrays and their initialization behavior. (1 Mark)"
+  ],
+  "11.8 What is the main difference between a string of characters that is read into a variable of type string versus a variable of type char[]?": [],
+  "11.9 Briefly describe the divide-and-conquer paradigm.": [
+    "Demonstrates understanding of the divide-and-conquer paradigm by accurately defining it (1 Mark)",
+    "Correctly explains that a problem is divided into smaller subproblems (1 Mark)",
+    "Properly describes that these subproblems are solved recursively (1 Mark)",
+    "Explains that the solutions for the subproblems are combined to form a solution for the original problem (1 Mark)",
+    "Uses clear and concise language in describing the divide-and-conquer paradigm (1 Mark)"
+  ],
+  "11.10 Briefly describe in one sentence how does merge sort work?": [
+    "Answer correctly identifies that merge sort divides the array into two halves (1 Mark)",
+    "Answer accurately describes that each half is sorted separately (1 Mark)",
+    "Answer explains that the sorted halves are then merged together (1 Mark)",
+    "Answer succinctly describes the process in one sentence (1 Mark)"
+  ],
+  "12.1 What is a pointer?": [
+    "Answer correctly identifies a pointer as 'the address of a location in memory' (1 Mark)",
+    "Answer provides a concise and accurate definition for a pointer, without unnecessary details or irrelevant information (1 Mark)",
+    "Answer demonstrates an understanding of the basic concept of pointers as memory addresses, with no confusion about their purpose or function (1 Mark)",
+    "Answer is written in simple, clear language that is easy to understand, with no jargon or technical terms beyond those necessary to define a pointer (1 Mark)",
+    "Answer does not include any errors, omissions, or misconceptions about pointers as memory addresses (1 Mark)"
+  ],
+  "12.2 What is the experimental approach for measuring the running time of an algorithm?": [
+    "The implementation of the algorithm is clearly demonstrated and can be executed (1 Mark)",
+    "The chosen programming language for the implementation is appropriate and functional (1 Mark)",
+    "The algorithm's running time is measured accurately, with a focus on precision and eliminating potential timing errors (1 Mark)",
+    "The execution time of the algorithm is reported in an understandable format, such as seconds or milliseconds (1 Mark)",
+    "Any necessary modifications to the environment for accurate timing are clearly explained and implemented (1 Mark)",
+    "The submitted code includes comments that explain the timing measurements taken and how they relate to the overall running time of the algorithm (1 Mark)"
+  ],
+  "12.3 Order the following functions by their running time: n^2; log(log n) ; 2^(log n) ; n! ; n^3.": [
+    "The answer correctly identifies log(log n) as the function with the lowest running time (1 Mark)",
+    "The answer correctly places 2^(log n) above log(log n), indicating that it has a higher running time (1 Mark)",
+    "The answer correctly orders n^2 and n^3, placing n^2 before n^3 because n^2 grows faster than n^3 for large values of n (1 Mark)",
+    "The answer correctly identifies the functions in their general growth pattern: log(log n) < 2^(log n) < n^2 < n^3 < n! (1 Mark)",
+    "The answer provides a justification or explanation for the order of the functions, demonstrating understanding of big O notation and its properties (1 Mark)"
+  ],
+  "12.4 Briefly, how does selection sort work?": [
+    "The answer accurately describes the initial step of selection sort, i.e., selecting the minimum from an array and placing it on the first position (1 Mark)",
+    "The answer correctly explains the subsequent steps of selection sort, i.e., repeatedly finding and placing the minimum from the remaining elements in the array (1 Mark)",
+    "The answer provides a clear and concise explanation of how selection sort works, with no unnecessary details or confusion (1 Mark)",
+    "The answer avoids errors or misconceptions about the working of selection sort, e.g., not mentioning swapping or multiple passes through the array (1 Mark)"
+  ],
+  "12.5 What is the advantage of linked lists over arrays?": [
+    "The answer correctly identifies that linked lists are dynamic structures (1 Mark)",
+    "The answer explains that the advantage of linked lists is the ability to store a variable number of elements (1 Mark)",
+    "The answer provides a clear and concise explanation of the advantage of linked lists over arrays (1 Mark)",
+    "The answer does not mention any disadvantages or confuse linked lists with other data structures (0 Marks deducted for each occurrence)"
+  ],
+  "12.6 What is a queue?": [
+    "Defines a queue as a data structure that follows the first in, first out principle (1 Mark)",
+    "Correctly identifies the main operations of a queue: enqueue and dequeue (1 Mark)",
+    "Demonstrates understanding of the order of operations in a queue by using the phrase 'first in, first out' (1 Mark)",
+    "Provides an accurate and concise explanation without additional unnecessary details (1 Mark)"
+  ],
+  "12.7 What are the main operations associated with a stack?": [
+    "The response accurately lists the main operations associated with a stack: push and pop (1 Mark)",
+    "The answer correctly identifies 'push' as an operation that adds an element to the top of the stack (1 Mark)",
+    "The answer correctly identifies 'pop' as an operation that removes an element from the top of the stack (1 Mark)",
+    "The response provides a clear and concise explanation for each operation (1 Mark)",
+    "The student demonstrates understanding of the fundamental operations in a stack data structure (1 Mark)"
+  ],
+  "12.8 What is the Euler tour traversal of a tree?": [
+    "The answer correctly identifies the Euler tour as a walk around the tree (1 Mark)",
+    "The answer starts with 'A walk around the tree' (1 Mark)",
+    "The answer mentions that the walk begins with the root of the tree (1 Mark)",
+    "The answer explains that each node is seen three times: from the left, from below, and from the right (1 Mark)",
+    "The answer uses clear and concise language to describe the Euler tour traversal (1 Mark)"
+  ],
+  "12.9 How do you delete a node from a binary search tree?": [
+    "The answer correctly identifies the node to be deleted (1 Mark)",
+    "The answer explains how to find the node in a binary search tree (1 Mark)",
+    "The answer describes replacing the selected node with the leftmost node from its right subtree (or vice versa) (1 Mark)",
+    "The answer provides clear and concise steps for implementing the operation (1 Mark)",
+    "The answer demonstrates an understanding of binary search tree properties and operations (1 Mark)",
+    "The answer is free of syntax errors if code is provided (1 Mark)"
+  ],
+  "12.10 How many steps does it take to search a node in a binary search tree?": [
+    "The answer correctly identifies the search operation in a binary search tree as a recursive process that uses comparison to traverse nodes, and states the number of steps is equivalent to the height of the tree. (1 Mark)",
+    "The answer provides a clear and concise explanation of the search process in a binary search tree, demonstrating understanding of the concept that each comparison at each level of recursion counts as one step, and thus the total number of steps is equal to the height of the tree. (1 Mark)",
+    "The answer accurately explains that the height of the binary search tree is determined by the maximum path length from the root node to any leaf node, and logically infers that this represents the number of steps taken during a search operation. (1 Mark)",
+    "The answer demonstrates an understanding of the binary search tree data structure, specifically its property of being balanced, and correctly states that the height of a balanced binary search tree is logarithmic in relation to the number of nodes, which means the number of steps required to search for a node will also be logarithmic. (1 Mark)",
+    "The answer provides an example or visualization to illustrate the concept of the search process and the role of the height of the tree in determining the number of steps taken during a search operation. (1 Mark)"
+  ]
+}
